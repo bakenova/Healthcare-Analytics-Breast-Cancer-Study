@@ -1,0 +1,2501 @@
+Patient_ID,Age_at_Diagnosis,Molecular_Subtype,BRCA_Mutation,Tumor_Grade,Initial_Tumor_Size_mm
+BC-00001,60,Triple-Negative,0,1,15.11
+BC-00002,53,HER2-Enriched,0,1,11.67
+BC-00003,62,Luminal A,0,1,44.78
+BC-00004,73,Luminal A,0,1,11.24
+BC-00005,52,Luminal A,1,1,12.9
+BC-00006,52,Luminal A,0,3,23.51
+BC-00007,73,Luminal B,0,2,19.82
+BC-00008,64,Luminal B,0,1,28.03
+BC-00009,49,Luminal A,0,2,28.18
+BC-00010,61,Luminal A,1,3,28.97
+BC-00011,49,Triple-Negative,0,2,12.54
+BC-00012,49,HER2-Enriched,0,2,63.07
+BC-00013,57,Luminal A,0,3,28.82
+BC-00014,32,Triple-Negative,0,2,11.87
+BC-00015,34,Triple-Negative,0,2,12.65
+BC-00016,48,Luminal A,0,2,32.0
+BC-00017,42,Luminal A,0,2,11.47
+BC-00018,58,Luminal B,0,2,14.75
+BC-00019,44,Triple-Negative,0,2,9.16
+BC-00020,38,Triple-Negative,0,2,42.03
+BC-00021,72,Luminal A,1,2,11.72
+BC-00022,52,Luminal A,0,1,70.14
+BC-00023,55,Luminal B,0,1,34.97
+BC-00024,37,Luminal B,0,2,9.13
+BC-00025,48,Luminal A,0,3,38.61
+BC-00026,56,Triple-Negative,0,2,63.15
+BC-00027,41,HER2-Enriched,1,2,23.56
+BC-00028,59,Triple-Negative,0,2,68.16
+BC-00029,47,Triple-Negative,1,1,35.45
+BC-00030,51,HER2-Enriched,0,1,15.41
+BC-00031,47,Luminal A,0,2,97.07
+BC-00032,77,Luminal B,1,1,6.93
+BC-00033,54,Luminal A,0,1,19.27
+BC-00034,42,HER2-Enriched,1,3,24.38
+BC-00035,64,Luminal A,0,1,86.45
+BC-00036,40,HER2-Enriched,1,2,42.72
+BC-00037,57,Luminal A,0,2,37.77
+BC-00038,31,Luminal A,0,2,13.44
+BC-00039,39,Luminal A,0,2,22.87
+BC-00040,57,Luminal A,0,2,15.72
+BC-00041,63,HER2-Enriched,0,2,36.87
+BC-00042,57,HER2-Enriched,0,3,56.48
+BC-00043,53,Luminal B,0,3,111.67
+BC-00044,51,Luminal A,0,1,17.23
+BC-00045,37,Luminal A,0,1,6.73
+BC-00046,46,Luminal A,0,3,19.54
+BC-00047,49,Luminal A,0,2,51.29
+BC-00048,67,Triple-Negative,0,2,12.03
+BC-00049,59,Luminal A,0,2,25.06
+BC-00050,33,Luminal A,0,1,38.12
+BC-00051,58,Luminal A,0,2,17.53
+BC-00052,50,Luminal A,1,2,29.76
+BC-00053,46,Luminal B,0,2,11.0
+BC-00054,62,Luminal B,0,2,59.17
+BC-00055,67,Luminal A,0,3,20.74
+BC-00056,66,Luminal A,0,2,29.12
+BC-00057,44,Luminal A,0,1,4.15
+BC-00058,51,Luminal A,0,2,9.63
+BC-00059,58,Luminal A,0,3,50.11
+BC-00060,66,Triple-Negative,0,3,17.32
+BC-00061,49,Luminal B,0,2,11.51
+BC-00062,52,Luminal B,0,1,6.18
+BC-00063,41,Luminal A,1,3,58.41
+BC-00064,40,Luminal A,0,2,41.42
+BC-00065,64,Luminal B,0,1,39.52
+BC-00066,71,HER2-Enriched,1,2,74.39
+BC-00067,54,HER2-Enriched,0,2,19.29
+BC-00068,67,Luminal A,0,2,6.81
+BC-00069,59,Luminal B,0,2,26.2
+BC-00070,47,Luminal A,1,2,83.93
+BC-00071,59,Triple-Negative,1,3,26.61
+BC-00072,73,Luminal B,0,3,55.48
+BC-00073,54,Luminal B,0,3,7.09
+BC-00074,73,Luminal A,0,3,13.2
+BC-00075,23,Luminal B,0,1,48.07
+BC-00076,64,Luminal A,0,2,28.68
+BC-00077,56,Luminal A,1,2,23.23
+BC-00078,51,Luminal A,0,3,54.96
+BC-00079,56,HER2-Enriched,0,2,47.62
+BC-00080,31,Luminal A,0,3,29.26
+BC-00081,52,Luminal A,0,2,1.51
+BC-00082,59,Triple-Negative,0,3,25.36
+BC-00083,72,Luminal A,0,1,34.67
+BC-00084,48,Luminal B,1,1,4.28
+BC-00085,45,Luminal A,1,3,33.82
+BC-00086,48,Luminal A,0,1,56.67
+BC-00087,65,HER2-Enriched,0,3,25.32
+BC-00088,58,Luminal A,0,1,10.34
+BC-00089,48,Luminal B,0,2,1.82
+BC-00090,61,Luminal B,0,2,34.31
+BC-00091,56,Luminal B,0,2,4.93
+BC-00092,66,HER2-Enriched,1,2,39.29
+BC-00093,46,Luminal A,0,2,81.26
+BC-00094,51,Luminal A,0,1,13.75
+BC-00095,50,HER2-Enriched,0,1,21.16
+BC-00096,37,Luminal B,0,2,84.35
+BC-00097,58,Triple-Negative,0,2,27.72
+BC-00098,58,Triple-Negative,0,3,17.47
+BC-00099,55,Triple-Negative,0,2,51.28
+BC-00100,52,Luminal B,0,2,18.27
+BC-00101,38,Luminal A,0,2,12.96
+BC-00102,49,HER2-Enriched,0,1,38.86
+BC-00103,50,Luminal B,0,2,54.14
+BC-00104,45,Luminal A,0,3,12.87
+BC-00105,53,Triple-Negative,0,3,29.48
+BC-00106,59,Triple-Negative,0,2,21.91
+BC-00107,77,Luminal B,0,2,24.77
+BC-00108,57,Luminal A,1,3,10.44
+BC-00109,58,Luminal A,0,2,40.98
+BC-00110,54,Triple-Negative,0,1,69.95
+BC-00111,31,Triple-Negative,1,1,12.61
+BC-00112,54,Luminal A,0,2,40.96
+BC-00113,55,Luminal A,0,3,50.47
+BC-00114,84,Triple-Negative,0,2,29.32
+BC-00115,52,Luminal A,1,1,39.74
+BC-00116,58,Luminal B,1,1,13.95
+BC-00117,54,Triple-Negative,0,3,67.33
+BC-00118,40,Luminal A,0,3,54.42
+BC-00119,68,Luminal B,0,2,58.7
+BC-00120,64,Luminal A,1,2,8.83
+BC-00121,64,Luminal A,1,1,36.22
+BC-00122,44,Triple-Negative,0,3,14.87
+BC-00123,71,Luminal A,0,3,71.21
+BC-00124,38,Triple-Negative,0,2,12.85
+BC-00125,62,Luminal B,0,3,30.21
+BC-00126,81,Luminal A,0,2,2.96
+BC-00127,43,Luminal A,0,1,30.09
+BC-00128,48,Luminal A,0,2,8.93
+BC-00129,56,Luminal A,0,1,37.56
+BC-00130,48,Luminal A,1,2,22.43
+BC-00131,36,Luminal A,0,2,18.72
+BC-00132,55,Luminal B,0,2,72.41
+BC-00133,42,HER2-Enriched,0,2,101.52
+BC-00134,60,HER2-Enriched,1,2,6.51
+BC-00135,43,HER2-Enriched,0,1,19.22
+BC-00136,73,Luminal A,0,2,45.61
+BC-00137,45,Luminal A,0,2,33.22
+BC-00138,51,HER2-Enriched,0,2,43.87
+BC-00139,64,Luminal B,0,3,23.72
+BC-00140,40,Luminal A,0,3,55.97
+BC-00141,57,Triple-Negative,1,3,29.24
+BC-00142,70,HER2-Enriched,0,2,34.66
+BC-00143,35,Luminal B,0,1,8.94
+BC-00144,57,Luminal A,0,2,27.04
+BC-00145,58,HER2-Enriched,0,2,45.96
+BC-00146,64,Luminal B,0,2,31.89
+BC-00147,40,HER2-Enriched,0,1,27.96
+BC-00148,39,HER2-Enriched,0,3,36.25
+BC-00149,61,Triple-Negative,0,1,29.11
+BC-00150,58,Luminal B,0,3,24.34
+BC-00151,58,Luminal A,0,3,46.96
+BC-00152,59,HER2-Enriched,0,2,23.04
+BC-00153,46,Luminal B,1,3,8.4
+BC-00154,57,HER2-Enriched,0,2,70.24
+BC-00155,58,Luminal A,0,3,15.26
+BC-00156,46,Luminal A,0,2,6.17
+BC-00157,77,Triple-Negative,0,3,39.51
+BC-00158,60,HER2-Enriched,0,2,76.28
+BC-00159,40,Triple-Negative,1,3,40.18
+BC-00160,62,HER2-Enriched,0,2,63.63
+BC-00161,43,Luminal B,0,2,11.6
+BC-00162,64,HER2-Enriched,0,3,8.52
+BC-00163,68,Triple-Negative,0,3,19.16
+BC-00164,45,Luminal B,0,2,53.17
+BC-00165,66,Luminal B,0,1,37.66
+BC-00166,59,Luminal A,0,2,39.67
+BC-00167,64,Luminal B,0,3,27.95
+BC-00168,77,HER2-Enriched,0,3,19.47
+BC-00169,52,Luminal A,0,3,28.91
+BC-00170,45,Luminal A,0,1,22.42
+BC-00171,44,Luminal A,0,2,18.38
+BC-00172,45,Luminal A,0,2,33.88
+BC-00173,54,Luminal A,0,3,20.75
+BC-00174,59,Luminal A,1,1,31.11
+BC-00175,58,Triple-Negative,0,3,3.4
+BC-00176,64,Luminal B,0,2,29.23
+BC-00177,55,Luminal A,0,1,20.65
+BC-00178,72,Luminal A,0,2,65.94
+BC-00179,51,HER2-Enriched,0,2,5.88
+BC-00180,87,Luminal A,0,2,27.63
+BC-00181,62,Triple-Negative,0,1,46.35
+BC-00182,44,HER2-Enriched,0,1,23.13
+BC-00183,42,HER2-Enriched,0,3,20.09
+BC-00184,60,Luminal A,0,1,46.24
+BC-00185,52,HER2-Enriched,0,2,37.0
+BC-00186,63,Luminal A,0,2,39.01
+BC-00187,60,Triple-Negative,0,2,18.41
+BC-00188,54,Luminal B,0,3,16.55
+BC-00189,44,Luminal A,0,2,31.14
+BC-00190,36,Luminal A,0,3,48.92
+BC-00191,49,Luminal A,0,2,7.37
+BC-00192,65,HER2-Enriched,0,1,23.77
+BC-00193,57,Luminal A,0,1,17.18
+BC-00194,40,Luminal B,0,2,26.03
+BC-00195,57,Luminal A,0,2,43.35
+BC-00196,59,HER2-Enriched,0,3,12.63
+BC-00197,44,Triple-Negative,0,2,40.0
+BC-00198,56,HER2-Enriched,0,2,18.92
+BC-00199,55,HER2-Enriched,0,1,54.28
+BC-00200,41,Luminal A,0,2,13.3
+BC-00201,59,Luminal A,0,2,48.46
+BC-00202,61,HER2-Enriched,0,2,8.18
+BC-00203,67,Luminal A,0,2,29.62
+BC-00204,67,Luminal A,0,1,40.6
+BC-00205,38,Luminal A,0,2,13.62
+BC-00206,43,Luminal A,1,3,17.66
+BC-00207,61,Luminal A,0,2,26.24
+BC-00208,61,Triple-Negative,0,2,20.03
+BC-00209,61,Luminal A,0,3,16.31
+BC-00210,101,Luminal B,1,2,46.72
+BC-00211,61,Luminal A,0,2,58.07
+BC-00212,68,HER2-Enriched,0,1,55.77
+BC-00213,66,Luminal A,0,2,35.9
+BC-00214,62,Triple-Negative,0,1,39.43
+BC-00215,51,Triple-Negative,0,3,11.69
+BC-00216,64,Luminal A,0,3,24.43
+BC-00217,45,Triple-Negative,0,3,27.9
+BC-00218,52,Triple-Negative,0,3,31.97
+BC-00219,49,Triple-Negative,1,2,31.56
+BC-00220,55,Triple-Negative,0,2,26.29
+BC-00221,82,Luminal A,1,3,35.61
+BC-00222,32,Luminal B,0,3,30.55
+BC-00223,63,Luminal A,0,2,30.49
+BC-00224,35,Luminal A,0,3,14.42
+BC-00225,49,Triple-Negative,0,2,9.36
+BC-00226,68,Luminal A,0,2,32.08
+BC-00227,55,HER2-Enriched,0,2,18.3
+BC-00228,42,Triple-Negative,0,2,15.0
+BC-00229,46,Triple-Negative,0,1,41.33
+BC-00230,63,Triple-Negative,0,2,24.63
+BC-00231,46,Luminal A,0,2,63.82
+BC-00232,57,Luminal A,0,2,38.31
+BC-00233,55,Luminal A,0,2,13.66
+BC-00234,47,Luminal A,1,3,41.68
+BC-00235,80,Luminal A,0,2,34.41
+BC-00236,62,Luminal A,0,2,13.21
+BC-00237,30,HER2-Enriched,0,1,16.52
+BC-00238,57,Luminal B,0,1,40.32
+BC-00239,47,Luminal A,1,3,4.63
+BC-00240,65,HER2-Enriched,0,2,2.82
+BC-00241,45,Luminal A,0,3,29.25
+BC-00242,53,Luminal A,0,1,27.66
+BC-00243,61,HER2-Enriched,0,2,31.18
+BC-00244,65,Luminal B,1,2,27.72
+BC-00245,40,HER2-Enriched,0,2,35.28
+BC-00246,50,Luminal A,0,1,58.6
+BC-00247,49,Triple-Negative,0,1,25.87
+BC-00248,47,Luminal B,0,2,6.78
+BC-00249,76,Luminal B,0,1,4.01
+BC-00250,59,Luminal B,0,3,19.62
+BC-00251,39,Triple-Negative,0,2,20.03
+BC-00252,66,Luminal B,1,1,8.0
+BC-00253,80,Luminal B,0,1,2.18
+BC-00254,67,Triple-Negative,0,2,18.48
+BC-00255,36,HER2-Enriched,0,1,76.02
+BC-00256,49,Luminal A,1,3,34.26
+BC-00257,70,HER2-Enriched,0,3,32.15
+BC-00258,46,Luminal A,0,2,22.6
+BC-00259,60,Luminal A,0,2,19.59
+BC-00260,64,Luminal B,0,1,36.75
+BC-00261,43,Triple-Negative,0,2,8.95
+BC-00262,54,Triple-Negative,0,2,89.22
+BC-00263,16,Luminal A,0,2,9.6
+BC-00264,42,Luminal B,0,2,39.12
+BC-00265,51,Luminal A,0,2,10.46
+BC-00266,40,Triple-Negative,0,2,28.23
+BC-00267,74,Triple-Negative,1,1,42.08
+BC-00268,37,Luminal B,0,2,5.48
+BC-00269,49,Triple-Negative,0,2,11.54
+BC-00270,56,HER2-Enriched,0,3,12.24
+BC-00271,72,Luminal B,0,1,20.93
+BC-00272,37,Luminal A,0,3,30.87
+BC-00273,68,Luminal B,0,2,77.04
+BC-00274,55,HER2-Enriched,0,1,16.4
+BC-00275,43,HER2-Enriched,0,2,73.82
+BC-00276,60,Luminal A,0,2,33.4
+BC-00277,57,Triple-Negative,0,3,9.3
+BC-00278,47,Luminal A,0,1,22.68
+BC-00279,55,Luminal B,0,2,6.9
+BC-00280,50,HER2-Enriched,0,2,19.63
+BC-00281,56,HER2-Enriched,0,3,18.56
+BC-00282,62,Luminal B,0,2,28.58
+BC-00283,74,Luminal A,0,3,39.21
+BC-00284,40,Luminal A,1,3,24.07
+BC-00285,80,Luminal B,0,2,10.33
+BC-00286,31,Luminal B,0,3,63.64
+BC-00287,53,Luminal A,0,3,80.32
+BC-00288,62,HER2-Enriched,1,2,22.29
+BC-00289,58,Luminal B,1,2,32.35
+BC-00290,47,HER2-Enriched,0,2,21.34
+BC-00291,52,Triple-Negative,1,2,28.75
+BC-00292,49,Luminal A,0,1,29.89
+BC-00293,47,Luminal A,0,2,8.12
+BC-00294,65,HER2-Enriched,0,2,19.92
+BC-00295,59,Luminal B,0,2,51.37
+BC-00296,46,HER2-Enriched,0,1,48.37
+BC-00297,65,Triple-Negative,0,3,19.63
+BC-00298,58,Triple-Negative,1,3,30.31
+BC-00299,64,Triple-Negative,0,1,20.83
+BC-00300,62,Luminal B,0,2,40.27
+BC-00301,45,Luminal B,0,2,5.43
+BC-00302,48,Luminal A,0,3,36.82
+BC-00303,63,Luminal A,0,1,66.49
+BC-00304,62,Luminal B,0,2,14.29
+BC-00305,54,Luminal A,1,3,60.56
+BC-00306,56,Triple-Negative,0,3,31.43
+BC-00307,70,Luminal B,0,3,24.02
+BC-00308,47,Luminal B,0,3,19.51
+BC-00309,61,Luminal A,0,1,61.99
+BC-00310,52,Luminal A,1,2,20.89
+BC-00311,52,Luminal A,0,2,73.16
+BC-00312,68,Luminal A,0,1,67.67
+BC-00313,64,Luminal A,0,3,17.34
+BC-00314,64,Luminal B,0,1,22.12
+BC-00315,70,Triple-Negative,0,2,3.76
+BC-00316,55,Triple-Negative,0,3,24.63
+BC-00317,63,HER2-Enriched,0,1,27.02
+BC-00318,51,Luminal A,0,3,55.1
+BC-00319,58,Triple-Negative,0,3,70.1
+BC-00320,53,Triple-Negative,0,2,42.94
+BC-00321,56,Luminal A,0,1,52.08
+BC-00322,62,HER2-Enriched,0,2,22.11
+BC-00323,45,Luminal A,0,2,8.63
+BC-00324,80,Triple-Negative,0,2,31.39
+BC-00325,42,Triple-Negative,0,2,54.47
+BC-00326,40,Luminal A,0,3,1.06
+BC-00327,68,Triple-Negative,0,1,27.99
+BC-00328,64,Luminal B,1,3,4.41
+BC-00329,62,Triple-Negative,0,1,13.3
+BC-00330,62,Luminal B,0,2,28.83
+BC-00331,54,Triple-Negative,0,3,70.86
+BC-00332,44,Luminal A,0,2,25.93
+BC-00333,55,Luminal A,0,1,41.01
+BC-00334,46,Luminal A,0,2,31.16
+BC-00335,66,Triple-Negative,1,3,14.02
+BC-00336,53,Triple-Negative,0,2,35.72
+BC-00337,45,Triple-Negative,0,2,8.41
+BC-00338,51,Triple-Negative,0,2,25.64
+BC-00339,59,Luminal A,0,3,61.21
+BC-00340,48,Luminal A,0,3,29.44
+BC-00341,45,Luminal A,0,2,31.17
+BC-00342,57,Luminal A,0,3,19.6
+BC-00343,57,Luminal A,0,2,5.86
+BC-00344,48,Luminal B,0,2,21.44
+BC-00345,49,Luminal A,0,1,46.7
+BC-00346,57,Luminal A,0,2,34.1
+BC-00347,37,Luminal A,0,2,8.89
+BC-00348,38,Luminal A,0,1,4.15
+BC-00349,46,Triple-Negative,0,2,13.87
+BC-00350,52,HER2-Enriched,0,3,21.61
+BC-00351,58,Triple-Negative,0,2,22.84
+BC-00352,72,Luminal A,0,2,23.07
+BC-00353,65,Luminal A,0,3,25.73
+BC-00354,53,HER2-Enriched,0,1,34.92
+BC-00355,54,Luminal A,0,2,18.54
+BC-00356,42,Luminal A,0,3,11.35
+BC-00357,54,Luminal A,0,2,37.83
+BC-00358,51,Luminal A,0,2,47.47
+BC-00359,58,Luminal A,0,1,16.21
+BC-00360,45,Luminal A,0,3,89.62
+BC-00361,61,HER2-Enriched,0,2,68.36
+BC-00362,73,Luminal A,0,3,9.52
+BC-00363,53,Luminal A,0,2,4.52
+BC-00364,59,Triple-Negative,0,2,22.36
+BC-00365,63,Luminal A,0,3,31.32
+BC-00366,50,Luminal A,0,2,88.76
+BC-00367,57,Triple-Negative,0,2,86.82
+BC-00368,55,Luminal A,0,2,41.08
+BC-00369,56,Luminal A,0,3,18.86
+BC-00370,45,Luminal B,0,2,56.73
+BC-00371,55,Luminal A,0,2,28.13
+BC-00372,60,Luminal B,1,1,7.65
+BC-00373,72,Triple-Negative,0,3,7.95
+BC-00374,66,Luminal A,1,1,18.96
+BC-00375,80,Luminal B,0,2,50.47
+BC-00376,45,Luminal B,0,2,10.3
+BC-00377,65,Luminal A,0,2,18.93
+BC-00378,57,Luminal B,0,2,67.96
+BC-00379,81,Luminal A,0,1,34.06
+BC-00380,45,Luminal B,0,2,36.98
+BC-00381,44,Luminal A,0,3,51.73
+BC-00382,47,Luminal B,0,3,19.24
+BC-00383,29,Luminal A,0,1,71.05
+BC-00384,48,Triple-Negative,0,3,41.95
+BC-00385,45,Luminal A,0,2,23.42
+BC-00386,56,Luminal A,0,3,62.28
+BC-00387,59,Luminal B,0,2,40.66
+BC-00388,77,HER2-Enriched,0,2,25.27
+BC-00389,66,Luminal B,0,3,37.77
+BC-00390,48,HER2-Enriched,0,3,12.31
+BC-00391,44,HER2-Enriched,0,2,56.87
+BC-00392,60,Triple-Negative,0,2,87.78
+BC-00393,39,Luminal A,1,2,5.58
+BC-00394,76,Luminal B,0,2,16.06
+BC-00395,69,Triple-Negative,0,2,14.94
+BC-00396,49,Triple-Negative,0,2,43.81
+BC-00397,34,Triple-Negative,0,3,30.14
+BC-00398,71,Luminal A,0,1,18.16
+BC-00399,53,Luminal A,0,2,20.5
+BC-00400,69,Luminal B,0,1,16.81
+BC-00401,35,HER2-Enriched,0,2,40.05
+BC-00402,47,Luminal B,0,1,29.77
+BC-00403,55,Luminal B,0,2,19.71
+BC-00404,55,Triple-Negative,1,3,17.07
+BC-00405,49,Luminal A,0,3,63.01
+BC-00406,62,Triple-Negative,0,2,55.89
+BC-00407,42,Luminal A,0,2,40.38
+BC-00408,53,Luminal A,0,2,51.91
+BC-00409,56,Luminal B,0,3,7.73
+BC-00410,61,HER2-Enriched,0,3,10.22
+BC-00411,63,Luminal A,0,2,9.19
+BC-00412,41,Luminal A,0,2,25.87
+BC-00413,36,Triple-Negative,0,3,53.08
+BC-00414,70,Luminal A,0,1,18.38
+BC-00415,58,Luminal B,0,2,58.12
+BC-00416,46,Luminal B,0,3,16.03
+BC-00417,73,Luminal B,0,3,23.2
+BC-00418,56,Luminal B,0,2,18.21
+BC-00419,69,Luminal A,0,2,21.83
+BC-00420,55,Luminal B,0,2,23.74
+BC-00421,79,Luminal A,0,2,4.36
+BC-00422,76,HER2-Enriched,0,2,33.38
+BC-00423,52,Luminal A,0,2,23.31
+BC-00424,66,Luminal B,0,3,70.95
+BC-00425,62,Luminal A,0,3,38.98
+BC-00426,71,Luminal A,1,1,32.33
+BC-00427,43,Luminal A,0,2,68.15
+BC-00428,63,Luminal A,0,2,63.6
+BC-00429,67,Triple-Negative,0,2,73.06
+BC-00430,33,Luminal A,0,2,16.87
+BC-00431,40,Triple-Negative,0,2,8.97
+BC-00432,30,Triple-Negative,1,3,4.39
+BC-00433,51,Luminal B,1,2,51.42
+BC-00434,63,Luminal A,0,3,3.6
+BC-00435,73,Luminal A,1,3,30.1
+BC-00436,55,HER2-Enriched,0,1,6.11
+BC-00437,74,Luminal A,0,2,56.62
+BC-00438,38,Luminal A,0,3,36.8
+BC-00439,34,Luminal B,0,3,56.4
+BC-00440,54,Triple-Negative,1,1,30.58
+BC-00441,59,HER2-Enriched,0,1,11.31
+BC-00442,54,Luminal A,0,1,17.82
+BC-00443,30,HER2-Enriched,0,3,47.95
+BC-00444,53,Luminal A,0,1,5.54
+BC-00445,39,Luminal A,0,2,16.64
+BC-00446,63,Triple-Negative,1,3,14.72
+BC-00447,59,Luminal A,0,1,23.99
+BC-00448,43,Luminal A,0,2,39.91
+BC-00449,48,Luminal A,0,2,55.42
+BC-00450,42,Triple-Negative,0,3,7.22
+BC-00451,54,HER2-Enriched,0,2,12.03
+BC-00452,66,Luminal B,0,2,8.1
+BC-00453,43,HER2-Enriched,0,2,24.74
+BC-00454,61,Luminal A,0,2,9.11
+BC-00455,48,Luminal B,0,1,33.19
+BC-00456,45,Luminal A,0,2,60.61
+BC-00457,53,Luminal A,0,2,4.57
+BC-00458,42,Luminal B,0,3,12.41
+BC-00459,48,Triple-Negative,0,3,73.57
+BC-00460,40,Luminal A,1,2,29.49
+BC-00461,78,Luminal A,0,2,16.88
+BC-00462,55,Luminal A,0,2,126.06
+BC-00463,46,Luminal A,0,3,20.44
+BC-00464,57,Triple-Negative,0,2,38.8
+BC-00465,53,Luminal B,0,2,12.9
+BC-00466,52,Luminal B,0,2,10.93
+BC-00467,62,HER2-Enriched,0,2,40.44
+BC-00468,64,Luminal A,0,2,78.04
+BC-00469,48,Luminal B,0,2,17.5
+BC-00470,48,Luminal A,0,1,10.19
+BC-00471,51,Luminal B,0,3,50.82
+BC-00472,27,Triple-Negative,1,2,17.65
+BC-00473,36,HER2-Enriched,0,1,33.52
+BC-00474,71,Luminal A,0,2,17.07
+BC-00475,74,Triple-Negative,0,2,19.51
+BC-00476,52,Luminal A,0,2,11.97
+BC-00477,61,Luminal A,0,2,41.21
+BC-00478,58,Luminal A,0,2,34.25
+BC-00479,91,Luminal A,0,2,33.38
+BC-00480,68,Luminal B,0,2,14.11
+BC-00481,53,Luminal B,0,1,32.1
+BC-00482,43,Triple-Negative,0,3,85.1
+BC-00483,35,Luminal B,0,2,10.26
+BC-00484,57,Luminal B,0,2,12.98
+BC-00485,45,Luminal A,0,1,13.62
+BC-00486,37,Luminal A,0,2,27.6
+BC-00487,47,Luminal B,0,2,9.55
+BC-00488,42,Luminal A,0,2,36.84
+BC-00489,75,Triple-Negative,0,3,4.01
+BC-00490,65,Luminal A,1,1,44.77
+BC-00491,54,Luminal A,0,2,32.94
+BC-00492,72,Luminal A,0,3,83.81
+BC-00493,55,Luminal A,0,3,10.71
+BC-00494,44,Luminal A,0,1,52.23
+BC-00495,73,HER2-Enriched,0,2,23.37
+BC-00496,61,Luminal A,0,2,19.88
+BC-00497,42,Luminal B,0,1,10.23
+BC-00498,52,Luminal A,0,2,17.28
+BC-00499,44,Luminal A,0,1,17.93
+BC-00500,38,Luminal A,0,3,6.16
+BC-00501,66,Triple-Negative,0,2,32.68
+BC-00502,77,Luminal A,0,1,29.62
+BC-00503,38,HER2-Enriched,0,1,38.69
+BC-00504,61,Luminal A,0,3,15.44
+BC-00505,47,HER2-Enriched,0,1,45.96
+BC-00506,49,Luminal A,1,2,62.79
+BC-00507,47,HER2-Enriched,0,2,21.11
+BC-00508,44,Luminal B,0,2,10.92
+BC-00509,55,Triple-Negative,0,2,26.53
+BC-00510,45,Luminal A,0,1,25.61
+BC-00511,58,Luminal A,0,2,22.0
+BC-00512,54,Luminal A,0,1,38.75
+BC-00513,52,Triple-Negative,0,2,19.11
+BC-00514,44,Luminal B,0,2,10.13
+BC-00515,48,HER2-Enriched,0,2,28.4
+BC-00516,64,Luminal A,1,1,40.09
+BC-00517,61,Luminal A,0,2,42.45
+BC-00518,43,Luminal A,0,2,18.1
+BC-00519,56,Triple-Negative,0,3,31.47
+BC-00520,64,HER2-Enriched,0,2,63.59
+BC-00521,34,Triple-Negative,0,2,53.27
+BC-00522,61,Luminal A,0,2,5.74
+BC-00523,47,Luminal B,0,3,19.25
+BC-00524,61,HER2-Enriched,0,3,60.81
+BC-00525,45,Luminal A,1,2,5.71
+BC-00526,33,Triple-Negative,0,2,24.05
+BC-00527,35,Triple-Negative,0,2,15.23
+BC-00528,55,Triple-Negative,1,2,31.97
+BC-00529,58,HER2-Enriched,0,3,2.54
+BC-00530,44,Luminal A,0,2,56.91
+BC-00531,62,Luminal A,0,1,24.96
+BC-00532,35,Triple-Negative,0,3,9.5
+BC-00533,54,Luminal A,0,3,13.45
+BC-00534,40,HER2-Enriched,0,2,32.79
+BC-00535,47,HER2-Enriched,0,2,12.54
+BC-00536,55,Luminal B,0,2,76.36
+BC-00537,44,Triple-Negative,0,3,22.75
+BC-00538,50,Luminal A,0,3,67.28
+BC-00539,67,Luminal A,0,2,28.44
+BC-00540,48,Luminal A,0,2,41.2
+BC-00541,65,Luminal A,0,3,39.47
+BC-00542,41,Luminal A,0,2,16.88
+BC-00543,61,Luminal A,0,2,41.57
+BC-00544,72,Triple-Negative,0,3,18.13
+BC-00545,25,Triple-Negative,0,2,5.14
+BC-00546,45,Luminal A,0,2,21.2
+BC-00547,61,Luminal A,0,3,8.24
+BC-00548,52,Triple-Negative,0,3,17.62
+BC-00549,59,Luminal A,0,2,24.33
+BC-00550,47,Luminal A,1,2,11.22
+BC-00551,56,Luminal A,0,2,37.45
+BC-00552,53,Luminal B,0,2,17.95
+BC-00553,69,Luminal A,0,1,8.0
+BC-00554,58,Triple-Negative,1,3,11.39
+BC-00555,59,Luminal A,0,2,27.15
+BC-00556,50,Luminal B,0,2,20.47
+BC-00557,49,Luminal A,0,2,31.1
+BC-00558,49,Luminal B,0,3,27.29
+BC-00559,59,HER2-Enriched,0,2,10.44
+BC-00560,49,HER2-Enriched,0,1,14.92
+BC-00561,58,HER2-Enriched,0,1,45.71
+BC-00562,79,Luminal B,1,2,12.12
+BC-00563,65,Triple-Negative,1,2,68.35
+BC-00564,51,Triple-Negative,0,2,6.35
+BC-00565,69,HER2-Enriched,0,2,44.67
+BC-00566,50,Luminal A,0,1,23.04
+BC-00567,30,Luminal A,0,2,10.5
+BC-00568,42,Luminal A,0,2,26.57
+BC-00569,32,HER2-Enriched,0,1,12.49
+BC-00570,50,Luminal A,0,1,15.75
+BC-00571,55,Luminal A,0,1,18.31
+BC-00572,75,Triple-Negative,0,1,42.25
+BC-00573,58,Triple-Negative,0,2,14.73
+BC-00574,52,Triple-Negative,0,1,29.72
+BC-00575,64,Luminal A,0,2,43.39
+BC-00576,28,HER2-Enriched,0,1,26.03
+BC-00577,57,Luminal A,0,3,33.13
+BC-00578,64,Luminal A,0,3,24.22
+BC-00579,37,Luminal A,0,2,36.9
+BC-00580,68,Luminal A,0,2,7.77
+BC-00581,59,Luminal A,0,2,64.31
+BC-00582,50,Triple-Negative,0,2,13.95
+BC-00583,62,Luminal A,0,1,23.22
+BC-00584,82,HER2-Enriched,0,2,3.52
+BC-00585,57,Luminal B,0,2,16.4
+BC-00586,57,Luminal A,1,3,30.64
+BC-00587,49,Luminal B,0,1,70.19
+BC-00588,44,Luminal A,0,3,38.1
+BC-00589,64,Luminal B,1,3,17.48
+BC-00590,44,Luminal A,0,1,5.81
+BC-00591,55,Luminal A,0,2,59.4
+BC-00592,49,Luminal A,0,1,16.81
+BC-00593,60,Luminal B,0,2,30.58
+BC-00594,59,Triple-Negative,1,2,17.52
+BC-00595,67,Luminal A,0,2,33.4
+BC-00596,48,HER2-Enriched,0,2,57.62
+BC-00597,51,HER2-Enriched,0,3,41.89
+BC-00598,43,Triple-Negative,0,1,20.16
+BC-00599,49,Triple-Negative,0,3,60.36
+BC-00600,59,Luminal B,0,2,80.58
+BC-00601,64,HER2-Enriched,0,3,49.51
+BC-00602,43,Triple-Negative,0,2,17.97
+BC-00603,65,Luminal A,0,1,44.74
+BC-00604,71,Luminal A,0,3,49.16
+BC-00605,59,Luminal A,0,2,20.47
+BC-00606,77,Triple-Negative,0,2,80.57
+BC-00607,45,Triple-Negative,0,2,55.87
+BC-00608,40,Luminal A,0,2,21.31
+BC-00609,33,Luminal B,0,2,17.95
+BC-00610,72,Luminal B,0,3,48.39
+BC-00611,62,Luminal A,1,1,95.05
+BC-00612,54,Triple-Negative,0,2,8.32
+BC-00613,58,Luminal A,0,3,34.57
+BC-00614,41,Luminal A,0,1,44.17
+BC-00615,84,Luminal B,1,1,57.26
+BC-00616,56,HER2-Enriched,0,3,44.48
+BC-00617,56,Luminal A,0,2,16.99
+BC-00618,63,HER2-Enriched,1,2,7.42
+BC-00619,60,Luminal B,0,1,19.6
+BC-00620,57,Luminal A,0,2,43.44
+BC-00621,45,Luminal A,0,1,15.52
+BC-00622,60,Luminal B,0,2,63.4
+BC-00623,77,Luminal A,0,3,22.64
+BC-00624,71,Triple-Negative,0,2,14.71
+BC-00625,74,Triple-Negative,0,2,37.38
+BC-00626,48,Triple-Negative,0,3,20.86
+BC-00627,43,Luminal A,0,2,17.56
+BC-00628,53,Triple-Negative,0,3,87.55
+BC-00629,55,Luminal A,0,2,15.44
+BC-00630,68,Luminal A,0,3,19.05
+BC-00631,34,Luminal A,0,1,37.77
+BC-00632,73,Luminal A,0,1,62.76
+BC-00633,53,HER2-Enriched,0,2,35.25
+BC-00634,49,Luminal B,0,2,27.06
+BC-00635,42,Luminal A,0,3,94.32
+BC-00636,35,Luminal B,0,2,18.33
+BC-00637,64,Luminal A,0,2,18.4
+BC-00638,55,Luminal B,1,3,15.63
+BC-00639,39,Luminal A,0,2,33.69
+BC-00640,39,Triple-Negative,0,2,11.94
+BC-00641,50,Triple-Negative,0,2,9.36
+BC-00642,75,Luminal B,0,2,19.0
+BC-00643,51,Luminal A,0,1,5.52
+BC-00644,36,Luminal A,0,3,30.59
+BC-00645,52,Triple-Negative,0,1,33.76
+BC-00646,51,Luminal A,0,1,38.02
+BC-00647,22,Luminal A,0,3,46.11
+BC-00648,54,Luminal A,0,2,19.44
+BC-00649,52,Luminal B,1,2,57.94
+BC-00650,63,Luminal B,0,2,54.1
+BC-00651,77,Triple-Negative,0,2,10.5
+BC-00652,68,Luminal A,0,2,24.28
+BC-00653,51,Luminal A,0,2,2.02
+BC-00654,41,Triple-Negative,0,2,58.5
+BC-00655,85,Triple-Negative,0,3,45.54
+BC-00656,55,Luminal A,0,2,67.67
+BC-00657,55,Luminal B,0,3,6.3
+BC-00658,54,Luminal A,0,1,35.96
+BC-00659,57,Triple-Negative,0,2,16.52
+BC-00660,53,Luminal A,0,2,3.44
+BC-00661,48,Triple-Negative,0,3,50.27
+BC-00662,48,HER2-Enriched,0,1,8.48
+BC-00663,54,Luminal B,0,2,32.7
+BC-00664,48,Luminal A,0,3,16.37
+BC-00665,46,Luminal B,0,2,28.7
+BC-00666,56,Luminal A,0,3,46.55
+BC-00667,51,Luminal A,0,1,28.76
+BC-00668,73,HER2-Enriched,0,3,11.73
+BC-00669,23,Triple-Negative,0,3,88.97
+BC-00670,68,Luminal B,1,2,19.66
+BC-00671,69,HER2-Enriched,0,2,13.85
+BC-00672,30,Luminal A,0,1,23.7
+BC-00673,50,Luminal A,0,3,6.46
+BC-00674,50,Luminal A,0,2,14.94
+BC-00675,38,Luminal B,0,1,20.62
+BC-00676,45,Triple-Negative,0,2,30.48
+BC-00677,41,HER2-Enriched,1,2,26.25
+BC-00678,76,Luminal A,1,1,36.03
+BC-00679,66,Luminal A,0,2,24.45
+BC-00680,70,Luminal B,0,1,53.68
+BC-00681,63,Luminal A,1,2,40.54
+BC-00682,41,Triple-Negative,0,2,34.05
+BC-00683,48,Triple-Negative,0,2,59.74
+BC-00684,60,Luminal B,0,3,59.74
+BC-00685,40,Luminal A,0,3,27.71
+BC-00686,63,Luminal A,0,2,18.9
+BC-00687,52,Luminal A,0,1,29.66
+BC-00688,50,Luminal A,0,2,22.86
+BC-00689,63,Luminal A,0,2,18.3
+BC-00690,60,HER2-Enriched,0,2,28.8
+BC-00691,50,HER2-Enriched,0,2,33.3
+BC-00692,68,Luminal A,0,2,39.18
+BC-00693,42,Luminal A,0,3,66.18
+BC-00694,62,Luminal A,0,1,30.91
+BC-00695,62,Luminal A,1,2,24.86
+BC-00696,51,Triple-Negative,1,1,49.42
+BC-00697,58,Luminal A,0,3,12.79
+BC-00698,39,Luminal A,0,1,5.58
+BC-00699,66,Luminal A,0,1,35.61
+BC-00700,52,Triple-Negative,0,2,19.6
+BC-00701,48,Luminal B,1,2,20.79
+BC-00702,67,Luminal A,1,2,12.52
+BC-00703,46,Luminal B,0,2,56.3
+BC-00704,38,HER2-Enriched,0,2,5.83
+BC-00705,36,Triple-Negative,0,1,38.18
+BC-00706,62,Luminal A,0,2,25.13
+BC-00707,39,Triple-Negative,0,3,68.93
+BC-00708,76,Triple-Negative,0,2,49.57
+BC-00709,30,Triple-Negative,0,3,9.71
+BC-00710,75,Luminal B,0,2,40.56
+BC-00711,57,Luminal B,0,2,34.88
+BC-00712,53,Luminal A,0,1,23.74
+BC-00713,48,HER2-Enriched,0,2,38.38
+BC-00714,59,Luminal B,0,3,14.91
+BC-00715,54,HER2-Enriched,0,3,27.05
+BC-00716,68,Luminal A,0,2,25.47
+BC-00717,56,HER2-Enriched,1,1,13.1
+BC-00718,56,Triple-Negative,0,1,19.64
+BC-00719,50,Luminal A,0,2,17.07
+BC-00720,54,Triple-Negative,0,2,33.28
+BC-00721,58,Luminal B,0,1,58.53
+BC-00722,34,Triple-Negative,0,3,7.81
+BC-00723,38,Luminal A,0,2,34.01
+BC-00724,63,Luminal A,1,3,16.56
+BC-00725,57,Triple-Negative,0,3,47.47
+BC-00726,52,Luminal A,0,3,33.72
+BC-00727,55,Triple-Negative,0,2,6.04
+BC-00728,59,Luminal B,1,2,28.82
+BC-00729,48,Luminal B,0,2,22.78
+BC-00730,45,Luminal A,0,2,8.62
+BC-00731,57,Luminal B,0,2,16.74
+BC-00732,43,Luminal A,1,3,27.88
+BC-00733,59,Luminal A,0,3,17.14
+BC-00734,34,Luminal A,0,3,51.24
+BC-00735,67,Luminal A,0,3,22.63
+BC-00736,60,Triple-Negative,0,2,15.77
+BC-00737,58,Triple-Negative,0,1,29.04
+BC-00738,66,Luminal A,0,2,31.84
+BC-00739,74,HER2-Enriched,0,2,47.77
+BC-00740,67,Luminal A,1,3,26.25
+BC-00741,32,HER2-Enriched,0,2,30.91
+BC-00742,39,Triple-Negative,0,2,39.92
+BC-00743,47,Triple-Negative,1,2,13.07
+BC-00744,55,Luminal A,0,1,45.77
+BC-00745,61,HER2-Enriched,0,2,8.86
+BC-00746,46,Luminal A,0,3,27.64
+BC-00747,57,Triple-Negative,0,1,28.01
+BC-00748,45,Luminal A,0,2,27.5
+BC-00749,47,Luminal B,1,2,8.13
+BC-00750,38,HER2-Enriched,0,1,1.18
+BC-00751,43,HER2-Enriched,0,1,20.15
+BC-00752,38,Luminal A,0,3,32.56
+BC-00753,43,Triple-Negative,0,2,64.07
+BC-00754,67,Luminal A,1,2,32.9
+BC-00755,43,Luminal B,1,1,8.71
+BC-00756,86,Luminal A,0,2,21.06
+BC-00757,60,Luminal A,0,2,22.1
+BC-00758,57,Luminal B,0,2,58.1
+BC-00759,44,Luminal A,0,1,33.55
+BC-00760,63,Luminal A,0,3,10.07
+BC-00761,48,Luminal A,0,2,16.0
+BC-00762,56,Luminal A,0,2,42.67
+BC-00763,85,HER2-Enriched,0,2,29.27
+BC-00764,53,Triple-Negative,0,2,25.07
+BC-00765,68,Luminal A,0,3,20.97
+BC-00766,46,Luminal A,0,3,41.98
+BC-00767,54,Luminal A,0,2,18.48
+BC-00768,76,Luminal A,0,3,15.46
+BC-00769,47,HER2-Enriched,1,3,47.09
+BC-00770,76,Luminal B,0,3,1.15
+BC-00771,63,Luminal A,0,2,9.79
+BC-00772,48,Luminal A,0,2,13.46
+BC-00773,62,Luminal A,0,2,49.28
+BC-00774,66,Triple-Negative,1,3,28.14
+BC-00775,62,Triple-Negative,0,1,9.16
+BC-00776,36,Luminal A,0,2,8.52
+BC-00777,46,Luminal A,1,2,50.22
+BC-00778,52,Triple-Negative,0,2,8.54
+BC-00779,54,Triple-Negative,0,2,14.94
+BC-00780,62,Luminal A,0,3,18.02
+BC-00781,57,Luminal A,0,2,36.09
+BC-00782,38,Luminal A,0,3,16.76
+BC-00783,59,Luminal B,0,2,7.26
+BC-00784,62,Luminal A,0,2,38.3
+BC-00785,61,Luminal A,1,2,37.73
+BC-00786,67,Luminal B,0,1,68.86
+BC-00787,65,Luminal A,0,2,30.09
+BC-00788,60,HER2-Enriched,0,2,8.2
+BC-00789,54,Luminal A,0,2,66.72
+BC-00790,35,Luminal A,0,3,17.97
+BC-00791,60,Luminal B,1,2,44.54
+BC-00792,57,Luminal A,0,1,65.21
+BC-00793,58,Triple-Negative,0,1,26.61
+BC-00794,39,Luminal B,0,2,24.26
+BC-00795,42,Luminal A,0,2,30.16
+BC-00796,67,HER2-Enriched,1,1,34.29
+BC-00797,54,Luminal A,0,2,49.61
+BC-00798,63,Triple-Negative,1,2,21.7
+BC-00799,55,Luminal A,0,2,25.66
+BC-00800,55,Luminal B,0,3,16.32
+BC-00801,66,Luminal A,0,2,16.25
+BC-00802,48,Luminal A,0,2,11.92
+BC-00803,56,Triple-Negative,0,3,17.24
+BC-00804,49,Triple-Negative,0,2,10.67
+BC-00805,49,Luminal A,0,2,45.76
+BC-00806,51,Luminal A,0,2,39.22
+BC-00807,57,Triple-Negative,0,1,23.04
+BC-00808,49,Triple-Negative,0,2,29.59
+BC-00809,70,Luminal A,1,2,11.93
+BC-00810,44,Luminal B,0,3,24.18
+BC-00811,52,Luminal A,0,3,54.17
+BC-00812,49,Triple-Negative,0,2,52.93
+BC-00813,72,Luminal A,0,2,69.77
+BC-00814,57,Luminal A,0,2,45.69
+BC-00815,67,HER2-Enriched,0,2,31.51
+BC-00816,37,Luminal A,0,2,44.06
+BC-00817,58,Luminal B,1,2,8.83
+BC-00818,65,Luminal A,0,2,41.8
+BC-00819,55,Luminal A,0,1,46.76
+BC-00820,67,Luminal A,0,3,23.88
+BC-00821,48,Luminal B,0,1,25.92
+BC-00822,71,Luminal A,0,3,20.2
+BC-00823,82,Luminal B,0,3,23.32
+BC-00824,50,Triple-Negative,0,2,28.31
+BC-00825,49,HER2-Enriched,0,3,30.5
+BC-00826,72,Luminal A,0,2,12.1
+BC-00827,73,Luminal A,0,2,14.08
+BC-00828,48,Luminal A,0,2,39.25
+BC-00829,49,Luminal A,0,2,32.57
+BC-00830,51,Luminal A,1,2,13.0
+BC-00831,38,HER2-Enriched,0,2,22.52
+BC-00832,43,Luminal A,0,2,76.38
+BC-00833,42,Luminal A,0,2,2.57
+BC-00834,45,Luminal A,0,2,1.17
+BC-00835,54,HER2-Enriched,0,1,2.64
+BC-00836,57,Luminal A,0,1,96.2
+BC-00837,73,Luminal B,0,2,9.84
+BC-00838,43,Luminal A,0,1,19.33
+BC-00839,66,Triple-Negative,0,1,37.0
+BC-00840,52,Triple-Negative,0,3,35.29
+BC-00841,54,Luminal A,1,1,20.38
+BC-00842,63,Luminal A,0,2,62.27
+BC-00843,41,Luminal A,0,2,42.87
+BC-00844,59,Luminal A,0,3,14.64
+BC-00845,56,HER2-Enriched,0,2,10.29
+BC-00846,60,Triple-Negative,0,2,27.96
+BC-00847,58,HER2-Enriched,0,2,44.3
+BC-00848,84,Triple-Negative,1,2,77.55
+BC-00849,47,Luminal A,0,2,31.45
+BC-00850,48,Luminal A,0,1,18.64
+BC-00851,47,HER2-Enriched,0,3,58.62
+BC-00852,48,Luminal A,0,2,53.33
+BC-00853,47,HER2-Enriched,0,2,42.56
+BC-00854,69,Luminal A,1,3,8.47
+BC-00855,72,Luminal A,1,2,19.43
+BC-00856,48,Triple-Negative,0,3,21.5
+BC-00857,45,Luminal A,0,2,42.58
+BC-00858,60,Triple-Negative,0,3,3.83
+BC-00859,48,Triple-Negative,0,1,18.24
+BC-00860,62,HER2-Enriched,1,3,25.35
+BC-00861,57,HER2-Enriched,0,3,20.9
+BC-00862,36,Luminal B,0,2,72.19
+BC-00863,73,Triple-Negative,0,1,49.93
+BC-00864,76,Luminal A,0,2,49.84
+BC-00865,47,Luminal B,1,3,17.15
+BC-00866,50,Luminal B,0,2,28.52
+BC-00867,58,Luminal A,0,2,11.88
+BC-00868,59,Luminal A,0,1,12.2
+BC-00869,62,Luminal A,0,2,50.24
+BC-00870,79,Luminal B,0,2,44.61
+BC-00871,52,Triple-Negative,0,3,11.13
+BC-00872,45,Luminal A,0,2,27.15
+BC-00873,38,Triple-Negative,0,3,5.97
+BC-00874,46,HER2-Enriched,0,2,36.58
+BC-00875,54,Triple-Negative,0,1,10.88
+BC-00876,76,Luminal B,0,2,27.21
+BC-00877,48,HER2-Enriched,0,2,75.96
+BC-00878,57,Luminal A,0,3,9.65
+BC-00879,54,Triple-Negative,0,3,32.34
+BC-00880,69,Luminal A,0,2,24.3
+BC-00881,85,Triple-Negative,0,2,8.88
+BC-00882,48,Triple-Negative,1,2,13.73
+BC-00883,49,Luminal A,0,3,34.35
+BC-00884,67,Luminal A,0,3,21.25
+BC-00885,63,HER2-Enriched,0,3,63.56
+BC-00886,77,Luminal A,0,2,35.52
+BC-00887,62,Triple-Negative,0,2,10.33
+BC-00888,50,Luminal A,0,2,45.84
+BC-00889,62,Luminal A,0,2,49.73
+BC-00890,68,Triple-Negative,0,2,30.73
+BC-00891,64,HER2-Enriched,0,1,37.64
+BC-00892,61,Triple-Negative,0,1,30.42
+BC-00893,67,Luminal A,0,3,57.32
+BC-00894,69,HER2-Enriched,0,3,52.78
+BC-00895,71,Luminal B,0,2,5.95
+BC-00896,62,Luminal B,1,2,5.3
+BC-00897,52,HER2-Enriched,0,2,21.55
+BC-00898,56,Luminal B,0,3,43.9
+BC-00899,69,Luminal A,1,3,55.91
+BC-00900,45,Luminal A,0,3,18.89
+BC-00901,59,HER2-Enriched,0,3,21.11
+BC-00902,50,Luminal A,0,2,19.79
+BC-00903,55,HER2-Enriched,1,2,23.5
+BC-00904,70,Luminal A,1,2,28.19
+BC-00905,57,Luminal B,0,2,17.26
+BC-00906,55,HER2-Enriched,0,3,19.74
+BC-00907,38,Luminal A,0,2,33.19
+BC-00908,63,Luminal A,0,1,7.92
+BC-00909,62,Luminal A,0,2,80.85
+BC-00910,80,Luminal B,0,3,43.08
+BC-00911,51,Triple-Negative,0,2,61.69
+BC-00912,57,Luminal A,0,2,11.53
+BC-00913,57,HER2-Enriched,0,2,15.27
+BC-00914,73,Luminal A,0,1,1.81
+BC-00915,53,Luminal B,0,2,25.94
+BC-00916,58,Triple-Negative,0,3,26.54
+BC-00917,62,Luminal A,0,2,30.78
+BC-00918,57,Luminal B,0,3,4.88
+BC-00919,49,Luminal A,0,2,24.4
+BC-00920,57,Luminal A,0,1,32.05
+BC-00921,67,Luminal A,1,3,35.72
+BC-00922,42,Luminal A,0,2,15.84
+BC-00923,56,Luminal B,0,2,88.82
+BC-00924,46,Luminal A,0,3,20.95
+BC-00925,69,Luminal B,0,2,27.98
+BC-00926,36,Luminal A,0,3,19.07
+BC-00927,48,Luminal A,0,1,16.04
+BC-00928,59,HER2-Enriched,0,2,40.03
+BC-00929,73,Triple-Negative,0,1,5.13
+BC-00930,54,Luminal A,0,3,41.75
+BC-00931,48,Triple-Negative,1,2,27.49
+BC-00932,77,Luminal B,0,3,21.85
+BC-00933,37,Luminal B,0,3,8.43
+BC-00934,28,Luminal B,0,2,25.83
+BC-00935,60,Luminal A,0,2,39.72
+BC-00936,48,Luminal A,0,2,28.35
+BC-00937,42,Luminal B,0,2,23.82
+BC-00938,63,Luminal A,0,2,20.67
+BC-00939,57,Triple-Negative,0,2,17.54
+BC-00940,48,Luminal A,0,3,9.05
+BC-00941,39,Luminal A,0,3,39.19
+BC-00942,65,HER2-Enriched,0,3,29.81
+BC-00943,62,Luminal A,0,3,40.95
+BC-00944,53,Luminal B,0,2,17.28
+BC-00945,77,HER2-Enriched,0,2,21.9
+BC-00946,42,Triple-Negative,0,3,8.56
+BC-00947,36,HER2-Enriched,0,2,5.45
+BC-00948,46,HER2-Enriched,0,3,26.85
+BC-00949,54,HER2-Enriched,0,2,2.56
+BC-00950,57,Triple-Negative,0,2,32.22
+BC-00951,52,Luminal A,0,3,15.38
+BC-00952,59,Luminal A,0,3,99.17
+BC-00953,39,Luminal A,0,2,25.49
+BC-00954,72,Luminal A,0,3,37.87
+BC-00955,54,HER2-Enriched,0,2,14.26
+BC-00956,68,Luminal B,0,2,54.63
+BC-00957,59,Luminal B,0,3,57.6
+BC-00958,60,Luminal A,0,2,48.73
+BC-00959,61,HER2-Enriched,1,2,87.16
+BC-00960,60,Luminal A,0,2,9.64
+BC-00961,62,HER2-Enriched,0,2,39.9
+BC-00962,70,Luminal B,0,2,13.05
+BC-00963,57,Luminal A,0,2,10.04
+BC-00964,63,Luminal A,0,1,24.42
+BC-00965,53,Luminal A,0,3,29.98
+BC-00966,72,Triple-Negative,1,2,23.1
+BC-00967,46,Triple-Negative,0,3,7.56
+BC-00968,76,Luminal B,0,2,26.33
+BC-00969,54,Luminal A,1,2,24.7
+BC-00970,37,Luminal A,1,2,10.41
+BC-00971,56,HER2-Enriched,0,2,65.08
+BC-00972,46,HER2-Enriched,0,2,81.97
+BC-00973,65,Luminal A,0,2,27.62
+BC-00974,47,Luminal A,0,2,1.26
+BC-00975,49,HER2-Enriched,0,1,24.93
+BC-00976,32,Luminal A,0,2,52.69
+BC-00977,49,Luminal A,0,1,25.37
+BC-00978,25,Luminal A,0,1,22.94
+BC-00979,35,Luminal B,0,3,40.41
+BC-00980,64,Triple-Negative,0,2,99.96
+BC-00981,64,Triple-Negative,0,2,32.07
+BC-00982,60,Luminal B,0,2,27.84
+BC-00983,43,Luminal B,0,3,60.68
+BC-00984,54,Luminal A,0,2,35.01
+BC-00985,54,Luminal B,0,3,75.5
+BC-00986,41,Luminal A,0,2,10.22
+BC-00987,73,Luminal B,1,3,10.35
+BC-00988,65,Luminal A,0,3,12.28
+BC-00989,52,Luminal A,0,3,46.51
+BC-00990,55,Luminal A,0,1,32.2
+BC-00991,57,Luminal A,0,2,20.43
+BC-00992,30,Luminal A,0,2,32.37
+BC-00993,52,Luminal A,0,2,51.36
+BC-00994,46,Triple-Negative,0,3,19.58
+BC-00995,42,Luminal A,0,1,42.69
+BC-00996,51,Luminal B,0,1,17.7
+BC-00997,76,Triple-Negative,0,2,5.77
+BC-00998,62,Triple-Negative,0,1,25.39
+BC-00999,48,Luminal B,0,2,5.01
+BC-01000,61,Triple-Negative,0,3,19.34
+BC-01001,71,Luminal A,0,2,28.05
+BC-01002,66,Luminal A,0,1,12.37
+BC-01003,55,Luminal A,0,2,38.08
+BC-01004,47,HER2-Enriched,0,2,20.83
+BC-01005,63,HER2-Enriched,0,1,38.92
+BC-01006,59,Luminal A,0,2,24.72
+BC-01007,65,Luminal A,0,3,21.38
+BC-01008,62,Luminal B,0,3,12.45
+BC-01009,67,Luminal A,0,3,25.68
+BC-01010,48,Luminal B,0,1,28.22
+BC-01011,70,HER2-Enriched,0,3,32.73
+BC-01012,57,HER2-Enriched,0,3,30.47
+BC-01013,79,HER2-Enriched,0,3,7.47
+BC-01014,46,Triple-Negative,0,1,49.85
+BC-01015,75,Luminal B,0,3,33.59
+BC-01016,57,HER2-Enriched,0,3,26.2
+BC-01017,47,Luminal B,0,3,32.48
+BC-01018,49,Luminal A,0,1,36.99
+BC-01019,51,Luminal A,0,3,84.37
+BC-01020,60,Luminal A,0,3,15.84
+BC-01021,61,Luminal A,0,2,16.22
+BC-01022,48,Luminal B,0,2,9.67
+BC-01023,54,Triple-Negative,0,3,3.55
+BC-01024,80,Luminal A,0,2,34.21
+BC-01025,75,Luminal A,0,2,86.63
+BC-01026,60,Triple-Negative,0,2,20.09
+BC-01027,55,Luminal A,0,3,57.3
+BC-01028,56,Luminal B,0,1,20.35
+BC-01029,62,Luminal B,1,2,55.46
+BC-01030,42,Luminal B,0,2,32.29
+BC-01031,51,Luminal A,0,3,25.85
+BC-01032,34,Luminal A,1,2,16.01
+BC-01033,59,Luminal A,0,3,26.83
+BC-01034,62,Luminal B,0,3,45.86
+BC-01035,49,Luminal B,0,1,14.32
+BC-01036,73,Luminal A,0,2,23.8
+BC-01037,40,Luminal B,0,1,29.42
+BC-01038,37,Triple-Negative,0,2,44.81
+BC-01039,57,Luminal A,0,2,27.42
+BC-01040,67,Luminal B,0,3,20.5
+BC-01041,75,HER2-Enriched,0,3,30.85
+BC-01042,49,Luminal A,0,1,54.57
+BC-01043,67,Luminal A,0,1,34.9
+BC-01044,54,Luminal B,0,2,24.27
+BC-01045,52,Triple-Negative,0,2,26.46
+BC-01046,65,Triple-Negative,0,2,10.2
+BC-01047,62,Luminal B,0,3,42.26
+BC-01048,36,HER2-Enriched,0,3,7.68
+BC-01049,72,Luminal A,0,2,17.96
+BC-01050,71,Luminal B,0,3,22.11
+BC-01051,47,Luminal B,1,2,17.93
+BC-01052,59,Luminal A,0,3,10.65
+BC-01053,60,HER2-Enriched,0,2,14.59
+BC-01054,58,Luminal B,0,1,7.24
+BC-01055,48,Luminal A,1,3,69.34
+BC-01056,46,Triple-Negative,0,2,16.37
+BC-01057,54,Luminal A,0,3,15.07
+BC-01058,69,Luminal A,0,2,86.35
+BC-01059,61,Luminal A,1,1,5.47
+BC-01060,50,HER2-Enriched,0,1,37.73
+BC-01061,64,HER2-Enriched,0,2,26.03
+BC-01062,20,Luminal A,1,2,10.8
+BC-01063,68,HER2-Enriched,0,2,27.48
+BC-01064,34,Luminal A,0,2,76.84
+BC-01065,50,HER2-Enriched,0,2,37.51
+BC-01066,41,Luminal B,0,3,34.1
+BC-01067,39,Luminal A,0,2,8.38
+BC-01068,68,Triple-Negative,1,3,12.53
+BC-01069,49,Luminal A,0,2,5.95
+BC-01070,59,Luminal A,0,2,26.7
+BC-01071,54,Luminal B,1,1,25.86
+BC-01072,60,Triple-Negative,0,2,12.6
+BC-01073,55,Luminal A,0,1,46.01
+BC-01074,39,Luminal A,0,2,7.82
+BC-01075,66,Luminal A,0,2,13.51
+BC-01076,49,Luminal B,0,2,27.36
+BC-01077,36,Luminal A,0,3,8.86
+BC-01078,49,HER2-Enriched,0,2,19.72
+BC-01079,73,Triple-Negative,0,2,14.38
+BC-01080,65,Luminal B,0,1,30.42
+BC-01081,50,Luminal A,1,3,7.14
+BC-01082,50,Luminal A,0,1,2.82
+BC-01083,51,Luminal A,0,2,8.51
+BC-01084,79,Triple-Negative,0,2,46.51
+BC-01085,59,Luminal A,0,2,44.19
+BC-01086,60,Luminal A,0,2,11.3
+BC-01087,67,HER2-Enriched,0,3,23.76
+BC-01088,57,Luminal A,1,1,25.36
+BC-01089,51,Luminal B,1,2,6.75
+BC-01090,52,Luminal A,0,2,14.7
+BC-01091,54,Triple-Negative,1,1,21.32
+BC-01092,54,Triple-Negative,0,2,2.16
+BC-01093,63,Luminal B,0,2,27.27
+BC-01094,55,Triple-Negative,0,2,35.47
+BC-01095,63,Luminal A,0,2,29.47
+BC-01096,54,Luminal B,0,2,41.4
+BC-01097,55,Luminal B,0,3,34.21
+BC-01098,31,Luminal B,0,2,45.79
+BC-01099,65,Luminal A,0,2,3.17
+BC-01100,59,Luminal A,0,2,18.23
+BC-01101,66,Luminal A,1,1,10.24
+BC-01102,20,Luminal A,0,1,3.29
+BC-01103,80,Luminal A,0,2,22.34
+BC-01104,53,HER2-Enriched,0,3,47.49
+BC-01105,68,Luminal A,0,3,15.23
+BC-01106,42,Luminal A,0,1,31.86
+BC-01107,62,Luminal B,0,3,57.6
+BC-01108,42,Luminal B,0,3,20.35
+BC-01109,47,Triple-Negative,1,2,51.5
+BC-01110,77,Luminal B,0,3,48.1
+BC-01111,52,Luminal A,0,2,31.16
+BC-01112,57,Triple-Negative,0,2,8.16
+BC-01113,65,Luminal B,0,2,3.09
+BC-01114,60,Luminal A,0,2,13.67
+BC-01115,56,Luminal B,0,2,17.33
+BC-01116,59,Triple-Negative,0,2,20.34
+BC-01117,83,Luminal A,0,3,38.19
+BC-01118,54,Luminal A,0,3,13.15
+BC-01119,57,Luminal A,1,3,38.9
+BC-01120,67,Luminal A,0,3,72.23
+BC-01121,68,Luminal A,0,3,21.72
+BC-01122,69,Luminal B,0,1,28.94
+BC-01123,62,Luminal A,0,2,69.3
+BC-01124,41,Triple-Negative,0,2,42.48
+BC-01125,74,HER2-Enriched,0,3,13.53
+BC-01126,41,Luminal B,0,2,76.06
+BC-01127,58,Triple-Negative,0,3,28.45
+BC-01128,45,Luminal A,0,1,14.91
+BC-01129,54,Luminal B,0,2,5.02
+BC-01130,58,Luminal B,0,3,13.29
+BC-01131,58,Triple-Negative,0,1,27.54
+BC-01132,60,HER2-Enriched,0,2,10.26
+BC-01133,74,Luminal A,0,2,11.77
+BC-01134,60,Triple-Negative,0,2,59.56
+BC-01135,52,Luminal A,0,3,28.8
+BC-01136,66,Triple-Negative,0,2,5.97
+BC-01137,69,Triple-Negative,0,2,40.13
+BC-01138,40,Luminal A,0,1,3.12
+BC-01139,62,HER2-Enriched,0,3,27.54
+BC-01140,63,Luminal A,1,2,25.03
+BC-01141,51,Luminal A,0,2,100.24
+BC-01142,71,Luminal B,0,3,49.95
+BC-01143,53,Luminal B,0,2,23.99
+BC-01144,56,Triple-Negative,0,3,44.72
+BC-01145,52,HER2-Enriched,1,2,3.47
+BC-01146,55,Luminal B,1,2,24.81
+BC-01147,41,Triple-Negative,0,1,14.37
+BC-01148,37,Triple-Negative,0,3,27.05
+BC-01149,74,Luminal A,0,3,2.97
+BC-01150,44,Triple-Negative,0,2,39.34
+BC-01151,43,Luminal A,0,2,34.34
+BC-01152,29,Triple-Negative,0,3,51.09
+BC-01153,47,Luminal A,1,2,17.27
+BC-01154,39,Luminal A,0,3,40.41
+BC-01155,74,Luminal A,0,2,80.38
+BC-01156,67,Luminal B,1,3,19.49
+BC-01157,46,Luminal A,1,2,6.94
+BC-01158,82,Luminal A,0,2,38.67
+BC-01159,66,Luminal B,0,2,18.12
+BC-01160,51,Triple-Negative,0,3,9.79
+BC-01161,25,Luminal A,0,2,11.67
+BC-01162,82,Luminal A,1,2,5.94
+BC-01163,38,Luminal A,1,2,9.83
+BC-01164,35,Luminal A,0,2,32.52
+BC-01165,67,Triple-Negative,0,3,33.41
+BC-01166,84,Triple-Negative,0,3,12.72
+BC-01167,71,Luminal B,1,1,96.93
+BC-01168,61,Luminal A,0,3,26.64
+BC-01169,62,HER2-Enriched,0,3,31.04
+BC-01170,65,Luminal B,0,3,35.97
+BC-01171,64,Triple-Negative,0,2,13.4
+BC-01172,58,Luminal B,0,3,46.44
+BC-01173,56,HER2-Enriched,0,1,5.17
+BC-01174,54,Luminal B,1,2,8.8
+BC-01175,45,Luminal A,1,3,13.51
+BC-01176,51,Triple-Negative,0,2,28.95
+BC-01177,34,Luminal B,0,1,7.43
+BC-01178,53,Luminal B,0,3,8.12
+BC-01179,43,Luminal A,0,3,64.11
+BC-01180,41,Luminal B,0,1,58.63
+BC-01181,57,Luminal B,1,3,7.12
+BC-01182,71,Luminal A,0,2,12.41
+BC-01183,66,Luminal A,0,2,23.53
+BC-01184,36,Luminal B,1,3,37.52
+BC-01185,43,HER2-Enriched,1,2,17.0
+BC-01186,66,Luminal B,0,1,15.33
+BC-01187,43,Luminal A,0,2,53.81
+BC-01188,52,HER2-Enriched,0,2,13.45
+BC-01189,61,Luminal A,0,2,19.37
+BC-01190,43,Luminal A,0,3,34.96
+BC-01191,56,Luminal A,0,3,36.05
+BC-01192,38,Luminal A,1,2,33.43
+BC-01193,47,Luminal A,0,3,32.01
+BC-01194,58,Luminal A,0,1,29.07
+BC-01195,35,Luminal A,0,1,20.36
+BC-01196,60,Luminal A,0,3,46.37
+BC-01197,54,Luminal B,0,1,37.38
+BC-01198,61,Luminal B,0,2,14.97
+BC-01199,57,Luminal A,0,2,19.72
+BC-01200,71,Triple-Negative,0,2,8.05
+BC-01201,56,Luminal A,0,3,16.73
+BC-01202,49,Luminal B,0,2,9.08
+BC-01203,56,Luminal A,0,1,47.27
+BC-01204,61,Luminal A,0,2,110.65
+BC-01205,55,Luminal B,0,2,8.39
+BC-01206,55,Luminal B,0,2,21.37
+BC-01207,46,Triple-Negative,1,2,18.73
+BC-01208,47,Luminal B,1,3,2.59
+BC-01209,38,Triple-Negative,0,3,13.94
+BC-01210,75,Luminal A,0,2,78.28
+BC-01211,40,Luminal A,0,2,27.51
+BC-01212,46,Luminal A,0,2,21.65
+BC-01213,46,Luminal A,0,3,9.21
+BC-01214,65,Luminal B,1,3,42.88
+BC-01215,51,Luminal B,1,2,16.18
+BC-01216,69,Luminal A,0,3,13.21
+BC-01217,46,Triple-Negative,0,2,39.91
+BC-01218,58,Triple-Negative,1,1,21.51
+BC-01219,44,Luminal A,0,1,10.52
+BC-01220,80,Luminal A,0,2,42.24
+BC-01221,40,Luminal A,0,2,26.8
+BC-01222,58,Luminal A,0,1,42.59
+BC-01223,62,Luminal A,0,2,22.36
+BC-01224,59,Luminal B,0,2,116.26
+BC-01225,52,Luminal A,0,2,4.96
+BC-01226,53,Luminal A,0,2,107.7
+BC-01227,55,Triple-Negative,0,1,15.03
+BC-01228,53,HER2-Enriched,0,2,5.26
+BC-01229,66,Triple-Negative,0,2,28.71
+BC-01230,81,Luminal A,0,2,53.6
+BC-01231,48,Luminal A,0,1,33.21
+BC-01232,38,Luminal B,0,2,4.09
+BC-01233,53,Luminal A,0,1,4.65
+BC-01234,85,Luminal A,1,2,5.77
+BC-01235,45,HER2-Enriched,0,3,13.88
+BC-01236,74,Luminal B,0,1,6.76
+BC-01237,75,Luminal A,0,2,19.62
+BC-01238,48,Luminal B,0,1,3.31
+BC-01239,61,Luminal A,0,2,20.68
+BC-01240,74,Luminal A,1,2,31.92
+BC-01241,50,Luminal A,0,2,53.52
+BC-01242,52,Luminal A,0,2,28.33
+BC-01243,48,Luminal A,1,3,61.51
+BC-01244,42,Triple-Negative,0,2,28.37
+BC-01245,47,Luminal B,0,2,7.85
+BC-01246,40,HER2-Enriched,0,2,18.02
+BC-01247,55,Luminal A,0,3,13.27
+BC-01248,45,Luminal A,0,3,25.49
+BC-01249,57,Luminal A,0,2,2.33
+BC-01250,36,Luminal A,0,3,57.72
+BC-01251,58,Luminal A,0,2,38.73
+BC-01252,65,HER2-Enriched,0,3,23.87
+BC-01253,31,HER2-Enriched,0,3,112.37
+BC-01254,59,Luminal B,0,1,77.76
+BC-01255,69,Luminal B,0,3,36.12
+BC-01256,40,Triple-Negative,0,2,24.62
+BC-01257,75,Luminal A,1,2,19.53
+BC-01258,60,Luminal A,0,2,18.35
+BC-01259,46,Luminal A,0,3,12.89
+BC-01260,54,HER2-Enriched,0,2,12.96
+BC-01261,61,Triple-Negative,0,1,22.79
+BC-01262,55,Luminal A,0,3,50.81
+BC-01263,61,Triple-Negative,0,1,22.59
+BC-01264,43,Triple-Negative,0,1,6.43
+BC-01265,57,Luminal A,0,2,18.74
+BC-01266,38,Luminal A,0,2,9.94
+BC-01267,53,Luminal A,0,2,68.06
+BC-01268,44,Triple-Negative,0,1,2.56
+BC-01269,46,Luminal A,0,3,24.37
+BC-01270,69,HER2-Enriched,0,3,9.04
+BC-01271,68,Luminal A,1,2,19.51
+BC-01272,62,HER2-Enriched,0,2,24.08
+BC-01273,41,Luminal A,0,2,44.38
+BC-01274,51,Luminal B,0,2,16.85
+BC-01275,69,Triple-Negative,0,1,23.52
+BC-01276,56,Triple-Negative,0,1,58.02
+BC-01277,82,Triple-Negative,0,3,57.91
+BC-01278,59,Luminal A,0,2,94.48
+BC-01279,57,HER2-Enriched,0,2,10.61
+BC-01280,51,Luminal A,0,3,95.51
+BC-01281,56,Luminal A,0,2,18.56
+BC-01282,53,Luminal B,1,2,66.57
+BC-01283,63,Luminal A,0,2,43.07
+BC-01284,66,Luminal B,0,1,16.1
+BC-01285,45,Triple-Negative,1,3,82.89
+BC-01286,39,Luminal A,0,2,61.77
+BC-01287,32,HER2-Enriched,0,3,7.55
+BC-01288,61,Luminal A,0,3,17.22
+BC-01289,41,Luminal A,0,3,39.05
+BC-01290,29,Luminal A,0,3,6.3
+BC-01291,59,Triple-Negative,0,2,22.13
+BC-01292,84,Triple-Negative,0,2,50.83
+BC-01293,54,Triple-Negative,0,2,22.12
+BC-01294,65,Triple-Negative,0,2,28.37
+BC-01295,55,Luminal A,0,3,48.19
+BC-01296,53,Luminal A,0,2,33.3
+BC-01297,66,HER2-Enriched,0,3,21.98
+BC-01298,51,Luminal B,0,3,65.87
+BC-01299,58,Luminal A,0,3,26.23
+BC-01300,58,Luminal A,0,3,24.1
+BC-01301,46,Luminal B,0,2,65.06
+BC-01302,66,Luminal B,0,1,34.26
+BC-01303,52,Luminal A,0,1,9.37
+BC-01304,45,Luminal B,0,2,10.49
+BC-01305,61,Luminal B,1,2,13.21
+BC-01306,44,Luminal B,0,3,49.78
+BC-01307,55,Luminal A,0,3,46.11
+BC-01308,54,HER2-Enriched,0,2,27.97
+BC-01309,68,Luminal A,0,1,10.61
+BC-01310,60,Luminal A,0,1,18.18
+BC-01311,54,HER2-Enriched,0,1,60.65
+BC-01312,64,Luminal B,0,2,21.55
+BC-01313,71,Luminal A,1,2,20.84
+BC-01314,61,HER2-Enriched,0,1,14.14
+BC-01315,55,Luminal B,0,2,50.89
+BC-01316,39,HER2-Enriched,0,1,12.38
+BC-01317,42,HER2-Enriched,1,2,41.72
+BC-01318,51,Luminal B,0,2,16.25
+BC-01319,47,Luminal B,0,2,36.26
+BC-01320,52,Luminal A,1,2,30.04
+BC-01321,55,Luminal A,0,3,23.16
+BC-01322,61,Luminal A,0,2,18.69
+BC-01323,54,Luminal B,0,2,32.38
+BC-01324,60,Luminal B,0,3,29.8
+BC-01325,55,Luminal A,0,2,14.76
+BC-01326,31,Luminal A,0,3,54.93
+BC-01327,43,Luminal B,0,2,46.83
+BC-01328,53,Luminal A,0,2,10.82
+BC-01329,40,HER2-Enriched,0,1,12.03
+BC-01330,62,Luminal A,0,2,3.74
+BC-01331,73,Luminal B,0,2,43.63
+BC-01332,69,Triple-Negative,0,1,19.37
+BC-01333,52,Luminal A,0,2,24.56
+BC-01334,72,Luminal B,0,2,11.64
+BC-01335,56,Luminal A,0,1,24.6
+BC-01336,50,Luminal B,0,2,31.07
+BC-01337,47,Luminal B,0,2,7.16
+BC-01338,51,Luminal A,0,1,30.56
+BC-01339,50,Luminal B,0,2,29.38
+BC-01340,57,Triple-Negative,0,3,62.98
+BC-01341,56,Luminal A,0,2,31.96
+BC-01342,55,Luminal A,0,2,10.51
+BC-01343,60,Triple-Negative,0,2,11.36
+BC-01344,69,Luminal B,0,2,29.1
+BC-01345,66,Triple-Negative,1,3,18.89
+BC-01346,37,Luminal B,0,2,41.34
+BC-01347,24,Triple-Negative,0,1,6.86
+BC-01348,66,Luminal A,0,2,44.98
+BC-01349,38,HER2-Enriched,0,3,28.37
+BC-01350,52,Triple-Negative,1,1,64.06
+BC-01351,40,Luminal B,0,3,22.63
+BC-01352,33,Luminal A,0,3,10.92
+BC-01353,61,Luminal A,0,1,9.95
+BC-01354,64,Luminal A,0,3,31.97
+BC-01355,48,Luminal A,0,2,8.13
+BC-01356,23,Luminal A,0,3,94.93
+BC-01357,48,Luminal B,0,2,21.93
+BC-01358,59,Luminal B,0,2,68.74
+BC-01359,37,Luminal A,0,2,4.97
+BC-01360,57,Luminal B,0,3,1.43
+BC-01361,54,Luminal A,0,1,13.31
+BC-01362,61,Luminal A,0,2,33.47
+BC-01363,56,Luminal A,0,1,27.12
+BC-01364,43,Luminal B,0,2,15.14
+BC-01365,69,Luminal A,0,2,33.12
+BC-01366,53,Luminal A,0,2,20.34
+BC-01367,54,Luminal A,1,2,8.38
+BC-01368,43,Triple-Negative,0,1,75.78
+BC-01369,49,Luminal A,0,1,1.28
+BC-01370,44,Luminal B,0,1,30.12
+BC-01371,52,HER2-Enriched,0,2,25.84
+BC-01372,75,HER2-Enriched,0,3,26.35
+BC-01373,38,Triple-Negative,0,1,51.73
+BC-01374,35,Luminal A,0,3,9.68
+BC-01375,72,Luminal A,1,3,9.2
+BC-01376,52,Triple-Negative,0,2,51.82
+BC-01377,46,Luminal B,0,2,38.64
+BC-01378,67,Luminal B,0,3,66.14
+BC-01379,47,HER2-Enriched,0,1,21.15
+BC-01380,76,HER2-Enriched,0,2,20.61
+BC-01381,63,Triple-Negative,1,2,48.07
+BC-01382,49,Triple-Negative,1,2,59.91
+BC-01383,80,HER2-Enriched,1,3,8.48
+BC-01384,47,Luminal A,0,1,91.5
+BC-01385,63,Triple-Negative,0,2,17.13
+BC-01386,58,Luminal A,0,2,29.91
+BC-01387,70,Luminal A,0,2,38.2
+BC-01388,73,Triple-Negative,0,2,52.71
+BC-01389,55,Luminal A,0,2,42.68
+BC-01390,45,Luminal A,0,3,26.82
+BC-01391,60,Luminal A,0,2,42.39
+BC-01392,46,Triple-Negative,0,3,18.74
+BC-01393,79,Luminal B,0,2,15.85
+BC-01394,56,HER2-Enriched,0,1,26.14
+BC-01395,50,Luminal A,0,1,57.78
+BC-01396,57,HER2-Enriched,0,1,37.57
+BC-01397,38,HER2-Enriched,0,2,17.49
+BC-01398,43,Luminal A,0,2,23.7
+BC-01399,69,Luminal A,0,3,49.79
+BC-01400,47,Luminal A,0,3,30.99
+BC-01401,42,Triple-Negative,0,1,28.22
+BC-01402,61,Luminal B,0,2,28.71
+BC-01403,69,Triple-Negative,0,2,8.94
+BC-01404,63,Luminal A,0,2,4.11
+BC-01405,66,HER2-Enriched,0,1,53.85
+BC-01406,45,HER2-Enriched,0,1,26.0
+BC-01407,37,HER2-Enriched,0,3,29.29
+BC-01408,73,Triple-Negative,0,3,17.97
+BC-01409,51,Luminal A,0,1,66.9
+BC-01410,51,Luminal A,0,2,16.68
+BC-01411,70,HER2-Enriched,0,2,20.2
+BC-01412,61,HER2-Enriched,0,3,53.1
+BC-01413,60,Luminal B,0,2,17.15
+BC-01414,80,Luminal A,1,1,29.62
+BC-01415,47,Luminal B,0,3,7.28
+BC-01416,66,Luminal A,0,2,11.77
+BC-01417,55,Luminal A,0,2,6.18
+BC-01418,58,Luminal B,0,2,26.98
+BC-01419,73,HER2-Enriched,0,2,28.32
+BC-01420,61,Luminal A,0,2,29.61
+BC-01421,61,Luminal A,0,2,20.77
+BC-01422,67,Luminal A,1,2,21.68
+BC-01423,50,Luminal A,0,1,14.62
+BC-01424,44,HER2-Enriched,0,3,18.66
+BC-01425,42,Triple-Negative,1,1,7.68
+BC-01426,31,Luminal A,0,1,33.06
+BC-01427,79,HER2-Enriched,0,2,44.12
+BC-01428,41,Triple-Negative,0,3,22.26
+BC-01429,52,Triple-Negative,0,3,21.75
+BC-01430,51,Luminal A,0,2,27.05
+BC-01431,58,Triple-Negative,1,2,65.69
+BC-01432,64,Luminal A,0,3,23.74
+BC-01433,65,Luminal A,0,2,25.36
+BC-01434,48,Luminal A,1,2,114.87
+BC-01435,52,Luminal B,0,3,21.15
+BC-01436,58,Luminal A,0,1,32.45
+BC-01437,52,Luminal A,0,3,31.47
+BC-01438,74,Luminal A,1,3,18.99
+BC-01439,60,Triple-Negative,0,2,34.02
+BC-01440,63,Triple-Negative,0,3,6.61
+BC-01441,62,Luminal A,0,3,21.7
+BC-01442,69,Triple-Negative,0,1,11.52
+BC-01443,57,Triple-Negative,1,2,34.64
+BC-01444,39,HER2-Enriched,0,1,5.56
+BC-01445,59,Luminal A,0,2,40.04
+BC-01446,47,HER2-Enriched,0,3,1.12
+BC-01447,48,Triple-Negative,0,2,33.04
+BC-01448,62,HER2-Enriched,0,2,9.86
+BC-01449,69,Luminal A,0,2,15.2
+BC-01450,55,Luminal B,0,3,20.85
+BC-01451,58,Luminal B,0,1,68.91
+BC-01452,75,Luminal B,1,2,9.76
+BC-01453,57,Luminal A,0,1,24.46
+BC-01454,86,Luminal A,0,2,56.41
+BC-01455,61,Triple-Negative,0,1,25.32
+BC-01456,33,Triple-Negative,0,2,36.71
+BC-01457,64,Luminal A,0,2,51.18
+BC-01458,59,Triple-Negative,0,1,14.9
+BC-01459,70,Luminal A,0,3,16.45
+BC-01460,63,HER2-Enriched,0,1,9.6
+BC-01461,53,HER2-Enriched,0,2,56.87
+BC-01462,40,Triple-Negative,0,1,76.05
+BC-01463,52,Triple-Negative,1,2,7.21
+BC-01464,44,Luminal A,0,2,30.48
+BC-01465,48,Triple-Negative,0,2,15.06
+BC-01466,62,Luminal A,0,1,15.81
+BC-01467,75,HER2-Enriched,1,2,38.17
+BC-01468,59,HER2-Enriched,0,2,26.04
+BC-01469,40,HER2-Enriched,0,3,35.68
+BC-01470,60,Luminal A,0,2,74.65
+BC-01471,69,Triple-Negative,0,2,31.61
+BC-01472,47,Luminal A,0,2,39.14
+BC-01473,53,Luminal A,0,2,49.87
+BC-01474,55,HER2-Enriched,0,1,13.8
+BC-01475,45,Luminal B,1,2,41.8
+BC-01476,62,Triple-Negative,1,2,15.47
+BC-01477,53,Luminal A,0,2,7.97
+BC-01478,60,Luminal A,0,2,33.64
+BC-01479,44,Triple-Negative,0,3,8.86
+BC-01480,49,Luminal B,0,1,26.18
+BC-01481,63,Luminal A,0,2,21.81
+BC-01482,50,HER2-Enriched,0,3,62.2
+BC-01483,75,Luminal B,0,2,8.81
+BC-01484,50,Luminal B,0,2,31.76
+BC-01485,57,Luminal B,0,2,12.6
+BC-01486,66,Triple-Negative,0,1,5.58
+BC-01487,37,Triple-Negative,0,2,3.05
+BC-01488,33,HER2-Enriched,0,3,9.13
+BC-01489,36,Luminal A,0,1,8.75
+BC-01490,70,Triple-Negative,0,2,3.21
+BC-01491,48,HER2-Enriched,0,3,45.76
+BC-01492,85,HER2-Enriched,0,3,54.24
+BC-01493,48,Luminal A,0,2,13.28
+BC-01494,57,Triple-Negative,1,2,17.52
+BC-01495,73,HER2-Enriched,0,2,20.59
+BC-01496,79,Luminal A,0,1,49.8
+BC-01497,79,Luminal A,0,2,50.5
+BC-01498,69,Triple-Negative,0,2,31.34
+BC-01499,67,Luminal A,1,3,30.57
+BC-01500,62,Triple-Negative,0,1,16.3
+BC-01501,64,HER2-Enriched,0,2,3.11
+BC-01502,48,Luminal B,0,2,19.96
+BC-01503,45,Luminal A,0,2,56.59
+BC-01504,54,Luminal A,0,1,14.38
+BC-01505,52,Triple-Negative,0,2,18.53
+BC-01506,49,Luminal A,0,3,42.97
+BC-01507,63,HER2-Enriched,0,2,17.9
+BC-01508,66,Luminal A,1,2,20.57
+BC-01509,56,Luminal A,0,2,43.65
+BC-01510,72,Luminal A,0,2,3.05
+BC-01511,41,Luminal B,0,2,8.54
+BC-01512,52,Triple-Negative,0,3,80.95
+BC-01513,46,Luminal A,0,3,43.43
+BC-01514,32,Luminal A,0,2,47.5
+BC-01515,54,Luminal A,0,2,30.74
+BC-01516,53,Luminal B,0,3,33.63
+BC-01517,73,Luminal A,0,2,14.79
+BC-01518,62,Triple-Negative,0,2,19.87
+BC-01519,42,Luminal B,0,2,48.5
+BC-01520,77,Luminal B,0,3,16.88
+BC-01521,69,Luminal A,1,2,14.38
+BC-01522,61,Triple-Negative,1,3,24.35
+BC-01523,52,Luminal A,0,3,30.9
+BC-01524,43,Luminal A,0,2,59.01
+BC-01525,50,HER2-Enriched,0,3,130.98
+BC-01526,68,Luminal B,0,3,10.81
+BC-01527,77,Luminal A,1,2,39.97
+BC-01528,73,Luminal A,0,1,26.5
+BC-01529,49,HER2-Enriched,0,1,4.01
+BC-01530,41,Luminal A,0,2,68.01
+BC-01531,56,Triple-Negative,0,2,18.1
+BC-01532,33,Luminal B,0,2,17.23
+BC-01533,58,Luminal A,0,1,67.99
+BC-01534,53,Luminal B,0,3,23.75
+BC-01535,49,Luminal A,0,2,54.96
+BC-01536,35,HER2-Enriched,0,2,20.57
+BC-01537,61,Luminal B,0,2,36.04
+BC-01538,48,Luminal A,0,2,22.54
+BC-01539,40,Luminal B,0,2,12.44
+BC-01540,20,Triple-Negative,0,2,36.88
+BC-01541,54,Luminal A,1,1,43.03
+BC-01542,76,Triple-Negative,1,3,25.03
+BC-01543,74,Luminal A,1,3,3.12
+BC-01544,49,Luminal A,0,2,8.83
+BC-01545,47,Luminal A,0,3,16.16
+BC-01546,60,Luminal A,0,3,64.44
+BC-01547,43,Luminal A,1,1,23.99
+BC-01548,58,Luminal A,1,3,63.66
+BC-01549,64,Triple-Negative,0,3,50.44
+BC-01550,69,Triple-Negative,0,2,17.19
+BC-01551,53,HER2-Enriched,1,1,29.08
+BC-01552,52,Luminal A,0,1,43.8
+BC-01553,44,Luminal A,0,1,13.02
+BC-01554,45,Luminal A,0,3,41.49
+BC-01555,52,HER2-Enriched,0,2,38.03
+BC-01556,59,Triple-Negative,0,3,12.39
+BC-01557,65,Luminal A,0,3,35.5
+BC-01558,45,Luminal A,0,2,23.09
+BC-01559,72,Luminal B,0,2,7.04
+BC-01560,51,Luminal A,0,1,16.16
+BC-01561,54,Luminal A,0,2,15.67
+BC-01562,46,Luminal B,0,2,72.21
+BC-01563,25,HER2-Enriched,0,1,8.98
+BC-01564,65,Luminal A,1,1,14.36
+BC-01565,63,Luminal A,0,3,33.19
+BC-01566,51,Triple-Negative,0,2,26.04
+BC-01567,55,Luminal A,0,2,21.37
+BC-01568,61,Luminal A,0,2,21.05
+BC-01569,36,Luminal A,0,3,47.85
+BC-01570,48,Luminal A,0,2,12.63
+BC-01571,64,Luminal A,0,1,9.6
+BC-01572,39,Triple-Negative,0,3,3.0
+BC-01573,58,Luminal A,0,2,16.9
+BC-01574,38,Luminal A,1,1,7.46
+BC-01575,60,HER2-Enriched,0,2,19.41
+BC-01576,54,Luminal B,1,3,4.3
+BC-01577,35,Triple-Negative,0,2,19.18
+BC-01578,68,Triple-Negative,0,2,31.29
+BC-01579,46,Luminal A,0,2,24.14
+BC-01580,45,HER2-Enriched,0,3,39.0
+BC-01581,57,Luminal B,0,1,53.73
+BC-01582,68,Triple-Negative,0,2,30.68
+BC-01583,42,Luminal B,0,3,24.6
+BC-01584,55,Triple-Negative,0,1,33.91
+BC-01585,60,HER2-Enriched,0,3,31.48
+BC-01586,63,Luminal A,0,3,44.08
+BC-01587,57,Luminal B,0,3,25.86
+BC-01588,50,Triple-Negative,0,2,8.15
+BC-01589,45,Triple-Negative,0,2,51.94
+BC-01590,56,Luminal A,0,3,4.61
+BC-01591,42,HER2-Enriched,0,3,41.48
+BC-01592,19,Luminal A,0,1,33.37
+BC-01593,60,Luminal A,0,3,34.01
+BC-01594,65,Luminal A,1,2,26.42
+BC-01595,26,Luminal A,0,1,13.88
+BC-01596,42,Triple-Negative,0,2,22.91
+BC-01597,62,Luminal A,0,3,57.07
+BC-01598,79,Triple-Negative,0,2,34.8
+BC-01599,55,Luminal A,0,2,35.08
+BC-01600,46,Luminal A,0,3,58.05
+BC-01601,52,Luminal A,0,2,62.71
+BC-01602,71,Luminal A,0,2,42.83
+BC-01603,47,Luminal A,0,2,86.89
+BC-01604,45,Luminal A,0,2,34.63
+BC-01605,49,Luminal B,0,2,42.73
+BC-01606,43,Luminal A,0,3,49.37
+BC-01607,56,Luminal A,0,2,60.61
+BC-01608,74,Luminal A,0,3,11.45
+BC-01609,58,Triple-Negative,0,1,7.52
+BC-01610,51,Triple-Negative,0,2,8.68
+BC-01611,51,Luminal B,1,2,16.99
+BC-01612,36,Luminal A,0,1,50.55
+BC-01613,65,Luminal A,0,2,20.69
+BC-01614,54,Triple-Negative,0,2,23.05
+BC-01615,52,Luminal A,0,1,7.52
+BC-01616,93,Luminal A,0,2,8.36
+BC-01617,58,Luminal A,0,2,16.53
+BC-01618,45,Luminal A,1,2,13.31
+BC-01619,49,Luminal A,0,3,43.41
+BC-01620,68,HER2-Enriched,0,2,7.48
+BC-01621,56,Luminal A,0,2,9.3
+BC-01622,37,Luminal B,0,3,31.4
+BC-01623,66,Luminal A,0,3,20.91
+BC-01624,46,Luminal A,0,2,19.54
+BC-01625,77,Triple-Negative,0,1,50.12
+BC-01626,67,Luminal A,1,2,20.0
+BC-01627,49,Triple-Negative,0,2,25.69
+BC-01628,70,Luminal B,1,3,16.67
+BC-01629,55,Luminal A,0,3,23.1
+BC-01630,65,Triple-Negative,0,2,44.43
+BC-01631,60,Luminal A,0,3,18.34
+BC-01632,44,Triple-Negative,0,2,28.75
+BC-01633,47,Luminal A,1,1,18.55
+BC-01634,67,Triple-Negative,0,3,2.86
+BC-01635,50,Luminal A,0,2,13.64
+BC-01636,50,Luminal B,0,3,16.29
+BC-01637,43,HER2-Enriched,0,3,25.52
+BC-01638,60,Triple-Negative,1,2,38.29
+BC-01639,79,Triple-Negative,0,2,21.51
+BC-01640,42,Triple-Negative,0,2,18.06
+BC-01641,55,Triple-Negative,0,2,30.34
+BC-01642,71,Luminal A,1,2,24.62
+BC-01643,54,Luminal A,0,2,7.42
+BC-01644,60,Luminal A,0,3,63.93
+BC-01645,42,Luminal A,0,2,19.13
+BC-01646,60,Luminal A,0,1,24.61
+BC-01647,52,Luminal B,0,2,5.97
+BC-01648,66,Luminal A,0,3,52.21
+BC-01649,69,HER2-Enriched,0,2,17.11
+BC-01650,86,Luminal A,0,2,68.56
+BC-01651,61,Luminal A,0,3,23.71
+BC-01652,58,Luminal B,0,2,36.66
+BC-01653,57,HER2-Enriched,0,2,18.44
+BC-01654,50,HER2-Enriched,0,3,7.99
+BC-01655,59,Luminal B,1,1,33.11
+BC-01656,51,Luminal A,0,3,32.86
+BC-01657,57,Luminal B,0,1,2.12
+BC-01658,70,Luminal A,0,1,7.22
+BC-01659,42,Luminal A,0,3,51.42
+BC-01660,68,Luminal A,0,2,17.21
+BC-01661,70,Luminal A,0,3,39.94
+BC-01662,53,Luminal A,0,3,90.46
+BC-01663,29,Triple-Negative,1,3,34.36
+BC-01664,47,Triple-Negative,0,3,24.01
+BC-01665,70,Luminal A,0,2,13.51
+BC-01666,54,Luminal A,0,3,30.42
+BC-01667,43,Luminal A,0,1,33.0
+BC-01668,48,Luminal A,0,2,26.0
+BC-01669,65,Triple-Negative,0,3,41.06
+BC-01670,61,Luminal A,0,2,8.74
+BC-01671,52,HER2-Enriched,0,2,26.37
+BC-01672,50,Luminal A,1,2,24.09
+BC-01673,50,Triple-Negative,0,2,15.33
+BC-01674,43,Luminal A,0,3,32.43
+BC-01675,74,HER2-Enriched,0,1,7.94
+BC-01676,51,Luminal A,0,2,12.78
+BC-01677,69,Luminal B,0,3,18.76
+BC-01678,73,Luminal A,0,2,21.12
+BC-01679,66,Luminal A,1,1,33.65
+BC-01680,49,Triple-Negative,1,2,36.24
+BC-01681,59,Triple-Negative,0,2,12.44
+BC-01682,54,Triple-Negative,0,1,68.16
+BC-01683,44,Luminal B,0,3,32.21
+BC-01684,58,Triple-Negative,0,2,81.86
+BC-01685,40,Luminal A,0,3,59.76
+BC-01686,69,Luminal A,0,3,15.66
+BC-01687,49,Luminal A,0,2,7.9
+BC-01688,57,Luminal B,0,1,6.11
+BC-01689,58,Luminal A,0,2,2.48
+BC-01690,51,Luminal A,0,1,29.09
+BC-01691,62,Luminal B,0,3,14.62
+BC-01692,49,Triple-Negative,1,1,37.8
+BC-01693,65,Luminal A,0,2,15.28
+BC-01694,38,Luminal A,0,2,12.3
+BC-01695,56,Luminal A,0,2,36.17
+BC-01696,78,Luminal A,0,2,95.58
+BC-01697,42,Luminal A,0,2,58.82
+BC-01698,46,Luminal B,0,1,36.6
+BC-01699,61,Luminal B,0,1,54.86
+BC-01700,57,HER2-Enriched,0,2,33.89
+BC-01701,59,Luminal A,0,3,2.13
+BC-01702,60,Triple-Negative,0,2,41.53
+BC-01703,62,Luminal A,0,2,35.73
+BC-01704,68,Luminal B,0,2,47.51
+BC-01705,59,Triple-Negative,1,2,14.53
+BC-01706,52,Luminal A,0,3,52.62
+BC-01707,63,Luminal A,0,1,8.61
+BC-01708,77,Triple-Negative,0,2,27.52
+BC-01709,53,Luminal A,0,3,24.37
+BC-01710,43,HER2-Enriched,1,3,1.21
+BC-01711,68,Luminal A,0,1,16.0
+BC-01712,53,HER2-Enriched,0,2,35.36
+BC-01713,28,Luminal A,0,3,16.35
+BC-01714,65,Luminal A,0,1,64.07
+BC-01715,48,Luminal B,0,3,29.18
+BC-01716,53,Luminal A,0,3,20.03
+BC-01717,58,Luminal A,0,3,52.82
+BC-01718,57,Luminal A,0,1,17.59
+BC-01719,63,Luminal A,0,3,9.35
+BC-01720,49,Luminal A,1,2,37.36
+BC-01721,61,Luminal A,0,3,7.78
+BC-01722,51,Triple-Negative,0,1,16.61
+BC-01723,63,Luminal A,0,1,25.47
+BC-01724,62,Luminal B,0,2,19.84
+BC-01725,43,Luminal A,0,1,145.11
+BC-01726,68,Luminal A,0,2,34.15
+BC-01727,48,Triple-Negative,0,3,22.63
+BC-01728,64,Luminal A,0,2,14.9
+BC-01729,59,Triple-Negative,0,3,32.01
+BC-01730,77,Luminal A,1,1,54.35
+BC-01731,52,HER2-Enriched,0,1,5.2
+BC-01732,50,Luminal B,0,1,31.4
+BC-01733,54,Triple-Negative,0,2,21.62
+BC-01734,51,Luminal B,0,3,43.03
+BC-01735,64,Luminal B,0,1,25.71
+BC-01736,35,Luminal A,0,2,35.0
+BC-01737,42,Luminal A,0,2,85.4
+BC-01738,42,Triple-Negative,0,3,44.03
+BC-01739,66,Luminal A,0,1,19.74
+BC-01740,75,Luminal A,0,2,10.61
+BC-01741,53,HER2-Enriched,0,1,21.66
+BC-01742,52,Luminal A,0,2,10.76
+BC-01743,55,Triple-Negative,0,2,27.45
+BC-01744,68,HER2-Enriched,0,3,27.51
+BC-01745,43,Luminal B,0,2,6.42
+BC-01746,57,Triple-Negative,0,2,26.89
+BC-01747,66,Luminal A,0,2,68.85
+BC-01748,61,Luminal A,0,1,26.16
+BC-01749,57,Luminal B,0,2,18.06
+BC-01750,67,Luminal A,0,3,41.66
+BC-01751,22,HER2-Enriched,0,3,22.03
+BC-01752,63,Triple-Negative,0,3,23.42
+BC-01753,47,Luminal A,0,3,52.82
+BC-01754,33,Luminal A,0,1,11.44
+BC-01755,61,Triple-Negative,0,2,46.87
+BC-01756,71,Luminal A,0,1,6.08
+BC-01757,53,Luminal B,0,2,91.87
+BC-01758,66,Luminal A,1,1,11.74
+BC-01759,74,Triple-Negative,0,2,26.58
+BC-01760,70,Luminal B,0,2,61.66
+BC-01761,74,HER2-Enriched,0,3,6.24
+BC-01762,63,Triple-Negative,0,3,16.4
+BC-01763,55,Luminal A,0,3,44.33
+BC-01764,35,Luminal A,0,1,4.06
+BC-01765,52,Triple-Negative,0,1,35.6
+BC-01766,44,Luminal A,0,2,31.9
+BC-01767,81,HER2-Enriched,0,2,3.47
+BC-01768,52,Triple-Negative,0,2,2.88
+BC-01769,56,Luminal B,0,2,2.48
+BC-01770,61,HER2-Enriched,0,2,30.8
+BC-01771,55,Triple-Negative,0,2,13.35
+BC-01772,75,Triple-Negative,0,2,5.61
+BC-01773,47,Luminal A,0,2,49.22
+BC-01774,57,Luminal A,0,2,64.91
+BC-01775,46,Luminal A,0,2,62.22
+BC-01776,39,HER2-Enriched,0,2,26.67
+BC-01777,47,Luminal B,0,1,3.04
+BC-01778,54,HER2-Enriched,1,2,5.36
+BC-01779,49,Luminal A,0,3,8.64
+BC-01780,46,Luminal B,0,3,14.06
+BC-01781,38,Luminal A,0,2,61.06
+BC-01782,54,HER2-Enriched,0,2,32.58
+BC-01783,36,Luminal B,0,2,25.5
+BC-01784,64,Luminal A,0,2,27.68
+BC-01785,55,Luminal A,1,2,47.27
+BC-01786,37,HER2-Enriched,0,2,45.19
+BC-01787,51,Luminal B,0,2,25.25
+BC-01788,45,Luminal A,0,2,54.12
+BC-01789,58,Triple-Negative,0,3,16.66
+BC-01790,71,HER2-Enriched,0,1,43.33
+BC-01791,32,Triple-Negative,0,3,53.1
+BC-01792,56,Luminal A,0,1,46.98
+BC-01793,53,Luminal B,0,1,10.26
+BC-01794,63,Triple-Negative,0,3,20.88
+BC-01795,57,Luminal B,0,3,3.8
+BC-01796,45,HER2-Enriched,0,1,7.17
+BC-01797,51,Luminal A,0,2,19.81
+BC-01798,45,Luminal A,0,1,26.28
+BC-01799,67,Luminal A,0,2,32.49
+BC-01800,55,Luminal A,0,3,7.02
+BC-01801,77,Luminal A,0,3,22.13
+BC-01802,54,Luminal A,0,2,48.58
+BC-01803,46,Triple-Negative,0,2,29.82
+BC-01804,36,Luminal A,0,2,36.84
+BC-01805,33,HER2-Enriched,0,2,26.29
+BC-01806,35,Triple-Negative,0,3,13.04
+BC-01807,58,Luminal B,0,3,9.48
+BC-01808,61,Luminal A,0,2,20.86
+BC-01809,36,HER2-Enriched,0,2,40.12
+BC-01810,65,Luminal B,1,2,11.25
+BC-01811,49,HER2-Enriched,0,1,16.23
+BC-01812,56,HER2-Enriched,0,3,25.14
+BC-01813,74,Triple-Negative,0,2,73.23
+BC-01814,65,Luminal B,0,2,31.4
+BC-01815,51,Luminal A,0,2,30.71
+BC-01816,44,Luminal B,0,3,18.44
+BC-01817,29,Luminal A,0,1,75.12
+BC-01818,46,Triple-Negative,0,3,26.85
+BC-01819,52,Luminal A,0,3,49.97
+BC-01820,43,Luminal A,0,3,9.51
+BC-01821,53,Triple-Negative,0,2,22.74
+BC-01822,55,Luminal B,0,2,133.39
+BC-01823,52,Luminal A,0,2,27.39
+BC-01824,47,Luminal B,0,2,17.84
+BC-01825,57,Triple-Negative,0,1,51.29
+BC-01826,60,Luminal A,0,2,19.36
+BC-01827,41,Triple-Negative,0,2,20.44
+BC-01828,71,Luminal A,1,3,4.21
+BC-01829,53,HER2-Enriched,0,1,2.28
+BC-01830,55,Triple-Negative,0,2,33.71
+BC-01831,63,Luminal A,0,3,16.51
+BC-01832,57,Luminal A,1,3,38.47
+BC-01833,66,Luminal A,0,3,31.99
+BC-01834,58,HER2-Enriched,1,3,26.39
+BC-01835,47,Luminal B,0,3,20.56
+BC-01836,59,Luminal B,0,2,11.99
+BC-01837,41,Luminal A,0,2,11.08
+BC-01838,56,Luminal A,0,1,5.98
+BC-01839,54,Luminal A,0,1,24.32
+BC-01840,52,Luminal A,0,2,73.32
+BC-01841,53,Luminal B,0,1,96.62
+BC-01842,32,Triple-Negative,0,2,11.59
+BC-01843,48,HER2-Enriched,0,1,46.09
+BC-01844,56,Luminal A,0,1,60.67
+BC-01845,56,Triple-Negative,0,3,14.51
+BC-01846,42,HER2-Enriched,0,1,41.54
+BC-01847,70,Triple-Negative,0,3,54.39
+BC-01848,44,Luminal B,0,1,5.88
+BC-01849,66,Luminal A,0,3,34.8
+BC-01850,60,Luminal A,0,3,9.61
+BC-01851,47,HER2-Enriched,0,2,35.86
+BC-01852,76,Luminal A,0,2,24.96
+BC-01853,40,Luminal A,0,1,4.6
+BC-01854,66,Luminal B,0,3,13.56
+BC-01855,67,Luminal B,0,3,12.14
+BC-01856,46,Luminal B,0,3,52.92
+BC-01857,71,Luminal A,0,2,23.22
+BC-01858,51,Luminal A,0,2,11.2
+BC-01859,58,Luminal B,0,3,38.82
+BC-01860,58,Triple-Negative,0,2,19.73
+BC-01861,53,HER2-Enriched,0,2,29.09
+BC-01862,64,Triple-Negative,0,1,21.77
+BC-01863,64,HER2-Enriched,0,3,94.4
+BC-01864,34,Luminal B,0,1,28.89
+BC-01865,70,Luminal A,0,2,42.11
+BC-01866,35,HER2-Enriched,1,2,52.75
+BC-01867,67,Luminal B,0,3,23.42
+BC-01868,68,Luminal B,0,2,61.58
+BC-01869,41,Luminal B,0,2,46.4
+BC-01870,50,Luminal B,0,1,2.71
+BC-01871,41,Luminal A,0,3,12.94
+BC-01872,52,Luminal B,0,3,23.7
+BC-01873,51,Luminal A,1,3,25.89
+BC-01874,64,Triple-Negative,0,2,14.83
+BC-01875,70,Luminal A,0,3,34.03
+BC-01876,71,Luminal A,0,2,19.28
+BC-01877,48,Luminal A,0,2,24.21
+BC-01878,52,HER2-Enriched,0,2,18.62
+BC-01879,34,Luminal A,0,2,20.71
+BC-01880,45,Luminal A,0,3,10.15
+BC-01881,66,Luminal B,0,2,31.93
+BC-01882,74,Luminal A,0,2,37.35
+BC-01883,40,Triple-Negative,0,2,7.07
+BC-01884,47,Triple-Negative,0,1,15.14
+BC-01885,54,Luminal B,0,2,25.59
+BC-01886,58,Luminal A,0,2,71.17
+BC-01887,45,HER2-Enriched,0,1,10.01
+BC-01888,60,Luminal A,1,2,19.17
+BC-01889,49,Luminal B,1,2,16.66
+BC-01890,54,Luminal A,0,3,30.58
+BC-01891,61,Triple-Negative,0,2,9.91
+BC-01892,55,Luminal A,0,3,14.36
+BC-01893,49,Luminal B,0,3,92.66
+BC-01894,53,HER2-Enriched,0,3,3.16
+BC-01895,53,Luminal B,0,2,23.38
+BC-01896,50,Luminal A,0,2,24.37
+BC-01897,51,Triple-Negative,0,3,17.17
+BC-01898,74,Luminal B,0,2,52.2
+BC-01899,61,Luminal B,0,2,28.61
+BC-01900,51,Luminal A,0,2,75.77
+BC-01901,63,Luminal B,1,1,4.49
+BC-01902,50,Luminal A,0,3,33.91
+BC-01903,69,Luminal A,0,2,30.18
+BC-01904,59,Luminal A,0,2,36.23
+BC-01905,53,Triple-Negative,0,2,49.11
+BC-01906,60,Luminal A,0,2,62.73
+BC-01907,36,Luminal A,0,1,85.04
+BC-01908,41,Luminal B,0,2,7.98
+BC-01909,40,HER2-Enriched,0,3,34.4
+BC-01910,56,Luminal A,0,2,54.36
+BC-01911,75,Luminal B,0,3,23.09
+BC-01912,81,Luminal A,0,2,10.82
+BC-01913,62,Luminal A,0,2,11.02
+BC-01914,61,Luminal A,0,1,13.77
+BC-01915,33,Triple-Negative,0,2,32.25
+BC-01916,48,Luminal A,1,3,14.45
+BC-01917,45,Luminal A,0,3,25.39
+BC-01918,47,Luminal A,1,2,5.89
+BC-01919,52,Triple-Negative,0,2,5.87
+BC-01920,49,Luminal A,0,3,38.9
+BC-01921,31,Luminal A,1,2,1.02
+BC-01922,63,Luminal A,0,1,65.4
+BC-01923,42,Luminal A,0,3,32.5
+BC-01924,57,Luminal B,0,2,7.22
+BC-01925,79,Luminal B,0,3,31.12
+BC-01926,43,Luminal A,1,2,17.1
+BC-01927,24,Luminal A,0,3,10.52
+BC-01928,51,Luminal A,0,2,56.2
+BC-01929,68,Luminal A,0,2,36.52
+BC-01930,78,Luminal A,0,2,14.87
+BC-01931,40,HER2-Enriched,0,2,12.57
+BC-01932,60,Triple-Negative,0,1,78.69
+BC-01933,49,Triple-Negative,0,2,33.14
+BC-01934,53,Triple-Negative,0,1,25.81
+BC-01935,86,Luminal B,1,3,12.45
+BC-01936,36,HER2-Enriched,0,2,12.23
+BC-01937,58,Luminal A,0,1,93.19
+BC-01938,60,Luminal B,0,1,40.32
+BC-01939,68,Luminal B,0,1,23.98
+BC-01940,56,Luminal B,0,2,6.59
+BC-01941,58,HER2-Enriched,1,1,16.21
+BC-01942,50,Luminal A,0,3,32.99
+BC-01943,58,Luminal A,0,1,54.3
+BC-01944,50,Triple-Negative,0,2,27.26
+BC-01945,62,Luminal A,0,3,53.75
+BC-01946,50,Luminal B,0,3,27.46
+BC-01947,59,Triple-Negative,0,1,50.62
+BC-01948,54,Luminal B,0,3,20.26
+BC-01949,68,Luminal B,1,2,50.7
+BC-01950,54,Luminal A,0,3,16.93
+BC-01951,33,Luminal A,1,2,41.76
+BC-01952,70,Triple-Negative,0,2,29.23
+BC-01953,44,Luminal B,0,3,2.05
+BC-01954,47,Luminal B,0,2,13.18
+BC-01955,47,Luminal A,0,2,115.95
+BC-01956,71,Luminal A,1,2,36.34
+BC-01957,29,Triple-Negative,0,1,16.24
+BC-01958,92,Luminal A,0,1,6.43
+BC-01959,67,Luminal B,0,1,26.56
+BC-01960,57,Luminal A,0,2,35.93
+BC-01961,54,HER2-Enriched,0,2,16.09
+BC-01962,58,Triple-Negative,0,2,30.58
+BC-01963,61,Luminal B,0,1,56.54
+BC-01964,62,Luminal A,0,2,11.31
+BC-01965,61,Luminal B,0,3,15.47
+BC-01966,56,HER2-Enriched,0,2,4.99
+BC-01967,52,Luminal A,0,2,58.37
+BC-01968,53,Triple-Negative,0,3,18.26
+BC-01969,52,Luminal B,0,3,73.65
+BC-01970,68,Triple-Negative,0,2,1.54
+BC-01971,62,Luminal B,0,3,31.85
+BC-01972,19,Luminal A,0,2,38.21
+BC-01973,62,Luminal A,0,3,36.38
+BC-01974,57,Luminal A,0,2,45.9
+BC-01975,54,Triple-Negative,0,2,29.28
+BC-01976,50,HER2-Enriched,0,1,28.0
+BC-01977,68,HER2-Enriched,0,3,5.37
+BC-01978,66,Luminal A,0,2,22.73
+BC-01979,45,Luminal A,0,2,28.55
+BC-01980,59,HER2-Enriched,0,2,13.53
+BC-01981,43,Luminal B,0,3,11.88
+BC-01982,38,Luminal A,0,3,36.0
+BC-01983,47,Luminal B,0,2,42.78
+BC-01984,65,Luminal A,0,2,12.64
+BC-01985,66,Luminal A,0,2,20.61
+BC-01986,61,Luminal B,0,2,32.35
+BC-01987,63,Luminal A,0,3,13.76
+BC-01988,61,Triple-Negative,0,1,24.64
+BC-01989,47,Luminal A,0,2,29.93
+BC-01990,60,Luminal A,0,2,82.59
+BC-01991,64,Luminal A,0,2,20.86
+BC-01992,64,HER2-Enriched,0,2,4.24
+BC-01993,69,Luminal A,0,2,5.72
+BC-01994,63,Luminal B,0,1,13.7
+BC-01995,59,Luminal A,1,2,18.68
+BC-01996,67,Luminal A,0,2,54.21
+BC-01997,54,Luminal A,0,1,21.76
+BC-01998,44,Triple-Negative,0,1,36.54
+BC-01999,53,Triple-Negative,0,3,63.72
+BC-02000,46,Luminal A,1,2,41.64
+BC-02001,46,Luminal B,0,2,19.05
+BC-02002,53,Triple-Negative,0,3,22.86
+BC-02003,45,Luminal A,1,2,24.78
+BC-02004,51,Triple-Negative,0,2,66.61
+BC-02005,32,Luminal A,0,2,50.96
+BC-02006,57,Triple-Negative,0,2,48.92
+BC-02007,55,HER2-Enriched,0,2,34.61
+BC-02008,45,Triple-Negative,0,2,29.41
+BC-02009,62,HER2-Enriched,0,3,21.92
+BC-02010,66,Luminal A,0,3,8.26
+BC-02011,35,Triple-Negative,0,1,40.94
+BC-02012,45,Luminal A,0,1,15.85
+BC-02013,45,Luminal A,0,2,45.4
+BC-02014,43,HER2-Enriched,1,2,3.22
+BC-02015,64,HER2-Enriched,0,1,9.89
+BC-02016,52,Triple-Negative,0,3,49.79
+BC-02017,51,Luminal A,1,2,66.81
+BC-02018,30,HER2-Enriched,0,3,45.14
+BC-02019,62,HER2-Enriched,0,3,11.32
+BC-02020,40,Luminal A,0,3,52.57
+BC-02021,55,Luminal A,0,2,12.07
+BC-02022,58,Luminal A,0,2,52.98
+BC-02023,71,Luminal A,1,2,9.12
+BC-02024,39,Triple-Negative,0,1,17.55
+BC-02025,18,Luminal B,0,2,1.13
+BC-02026,57,HER2-Enriched,0,2,9.79
+BC-02027,76,Triple-Negative,0,1,40.66
+BC-02028,69,Luminal A,0,2,87.56
+BC-02029,57,Triple-Negative,0,3,55.36
+BC-02030,49,Luminal A,0,1,43.96
+BC-02031,64,Triple-Negative,0,1,5.78
+BC-02032,43,Luminal A,0,2,17.79
+BC-02033,60,Triple-Negative,0,3,74.74
+BC-02034,61,Luminal A,0,2,26.0
+BC-02035,67,Luminal A,0,1,7.96
+BC-02036,88,HER2-Enriched,0,2,17.71
+BC-02037,59,Luminal A,0,3,2.49
+BC-02038,48,Luminal B,1,3,47.3
+BC-02039,54,Luminal A,0,2,6.49
+BC-02040,33,HER2-Enriched,1,2,25.08
+BC-02041,46,Luminal A,0,2,7.7
+BC-02042,50,Luminal A,1,1,28.7
+BC-02043,48,Luminal A,0,2,45.47
+BC-02044,56,Luminal B,1,3,15.97
+BC-02045,45,Luminal A,0,3,61.91
+BC-02046,68,Luminal A,0,2,42.17
+BC-02047,55,Luminal A,1,1,37.16
+BC-02048,54,Luminal A,0,2,60.54
+BC-02049,51,Luminal B,0,3,29.09
+BC-02050,56,Triple-Negative,0,3,18.73
+BC-02051,64,Luminal A,1,1,33.64
+BC-02052,44,Luminal B,0,2,8.18
+BC-02053,47,HER2-Enriched,0,2,48.63
+BC-02054,51,Luminal A,0,2,48.68
+BC-02055,38,HER2-Enriched,0,3,20.91
+BC-02056,45,Luminal A,0,2,15.04
+BC-02057,49,Luminal B,0,3,29.71
+BC-02058,65,Luminal A,0,2,6.95
+BC-02059,58,HER2-Enriched,1,3,18.38
+BC-02060,57,HER2-Enriched,0,2,58.4
+BC-02061,65,Luminal A,0,3,9.96
+BC-02062,53,Luminal A,0,2,63.88
+BC-02063,59,Triple-Negative,0,2,34.91
+BC-02064,53,Luminal A,0,2,38.27
+BC-02065,58,Luminal B,0,2,15.25
+BC-02066,48,Triple-Negative,0,2,11.45
+BC-02067,25,HER2-Enriched,0,2,20.09
+BC-02068,53,Luminal B,0,3,76.73
+BC-02069,72,HER2-Enriched,0,1,14.53
+BC-02070,66,Triple-Negative,0,3,1.92
+BC-02071,66,Luminal B,0,3,27.39
+BC-02072,69,Luminal B,0,1,55.82
+BC-02073,56,Luminal A,0,2,29.95
+BC-02074,57,Triple-Negative,0,2,80.19
+BC-02075,47,HER2-Enriched,0,1,40.35
+BC-02076,51,Luminal A,0,2,30.25
+BC-02077,62,Triple-Negative,0,3,19.87
+BC-02078,69,Luminal B,0,1,36.78
+BC-02079,53,Luminal A,0,2,5.49
+BC-02080,49,Luminal B,1,2,76.83
+BC-02081,55,Luminal A,1,3,45.59
+BC-02082,62,Triple-Negative,0,1,45.41
+BC-02083,37,Luminal A,0,2,24.24
+BC-02084,27,Triple-Negative,0,2,62.65
+BC-02085,48,Luminal B,0,2,21.64
+BC-02086,40,Luminal A,0,3,16.13
+BC-02087,48,Triple-Negative,0,3,26.18
+BC-02088,53,Luminal B,0,1,46.69
+BC-02089,49,Luminal A,0,2,13.81
+BC-02090,72,Luminal B,0,2,11.83
+BC-02091,58,Triple-Negative,0,2,11.42
+BC-02092,58,Luminal A,0,2,17.13
+BC-02093,62,Luminal A,0,2,49.98
+BC-02094,41,Luminal A,0,2,28.81
+BC-02095,67,Luminal A,0,3,8.54
+BC-02096,54,HER2-Enriched,0,1,106.39
+BC-02097,63,Luminal B,0,3,7.3
+BC-02098,42,Luminal A,0,2,17.23
+BC-02099,36,Luminal A,0,2,11.0
+BC-02100,64,Luminal A,0,3,14.14
+BC-02101,59,Triple-Negative,1,2,26.41
+BC-02102,44,Luminal A,0,2,21.09
+BC-02103,44,Triple-Negative,0,2,12.7
+BC-02104,68,Luminal B,0,2,31.85
+BC-02105,40,Luminal A,0,3,35.48
+BC-02106,74,Triple-Negative,0,3,40.23
+BC-02107,44,Luminal B,1,1,26.74
+BC-02108,62,HER2-Enriched,0,1,34.4
+BC-02109,51,Triple-Negative,0,2,39.54
+BC-02110,62,Luminal A,1,1,14.37
+BC-02111,48,Luminal A,0,2,90.22
+BC-02112,53,HER2-Enriched,0,1,74.96
+BC-02113,55,Luminal A,0,2,46.2
+BC-02114,42,Luminal A,0,1,18.84
+BC-02115,63,Luminal A,0,2,3.28
+BC-02116,48,Luminal A,0,2,4.33
+BC-02117,52,HER2-Enriched,0,2,20.06
+BC-02118,43,Luminal A,0,3,75.34
+BC-02119,24,Luminal B,1,3,21.82
+BC-02120,52,Luminal B,0,2,10.86
+BC-02121,83,Luminal A,0,1,11.5
+BC-02122,64,Luminal A,0,3,74.26
+BC-02123,54,HER2-Enriched,0,3,20.41
+BC-02124,51,Luminal A,0,3,71.27
+BC-02125,55,HER2-Enriched,1,1,10.29
+BC-02126,61,Triple-Negative,0,3,12.05
+BC-02127,40,Luminal A,0,2,16.78
+BC-02128,68,Luminal B,0,3,36.16
+BC-02129,63,Luminal B,0,3,42.7
+BC-02130,63,Luminal A,0,2,13.42
+BC-02131,60,Triple-Negative,0,3,14.93
+BC-02132,55,Triple-Negative,0,2,6.13
+BC-02133,63,Luminal A,0,3,5.9
+BC-02134,62,Luminal B,0,2,11.09
+BC-02135,50,Triple-Negative,0,3,66.68
+BC-02136,48,Triple-Negative,0,1,10.94
+BC-02137,56,Luminal B,0,3,26.83
+BC-02138,73,Luminal B,0,2,18.59
+BC-02139,40,Luminal A,0,2,10.2
+BC-02140,37,Triple-Negative,1,2,38.84
+BC-02141,56,Luminal A,1,3,15.32
+BC-02142,55,Luminal B,0,1,47.88
+BC-02143,57,Luminal A,0,2,48.91
+BC-02144,57,Luminal A,0,2,15.88
+BC-02145,52,Luminal A,0,3,43.46
+BC-02146,72,Triple-Negative,0,1,43.31
+BC-02147,35,Luminal A,0,1,19.61
+BC-02148,45,Luminal B,0,2,17.57
+BC-02149,53,Luminal A,1,2,31.93
+BC-02150,35,Luminal A,0,2,85.77
+BC-02151,52,Luminal A,0,2,55.47
+BC-02152,74,Luminal B,0,3,26.34
+BC-02153,55,Luminal A,0,3,3.27
+BC-02154,57,Luminal A,0,2,24.28
+BC-02155,39,Luminal A,0,1,3.21
+BC-02156,47,Luminal A,0,2,5.11
+BC-02157,50,Triple-Negative,0,1,12.47
+BC-02158,51,Triple-Negative,0,3,26.87
+BC-02159,70,Luminal A,0,2,13.85
+BC-02160,61,Luminal B,0,2,59.23
+BC-02161,41,Triple-Negative,0,2,24.42
+BC-02162,57,Luminal A,0,3,14.38
+BC-02163,60,Triple-Negative,0,1,41.04
+BC-02164,68,Triple-Negative,0,2,12.99
+BC-02165,73,Luminal A,0,1,27.38
+BC-02166,42,Luminal A,0,3,1.49
+BC-02167,45,Triple-Negative,0,3,12.8
+BC-02168,39,Luminal B,0,2,56.62
+BC-02169,52,Luminal A,0,2,34.82
+BC-02170,60,Luminal A,0,3,29.73
+BC-02171,66,Luminal A,0,2,38.96
+BC-02172,54,HER2-Enriched,0,2,56.94
+BC-02173,51,HER2-Enriched,0,2,24.03
+BC-02174,56,Triple-Negative,0,2,15.88
+BC-02175,44,Luminal A,0,1,43.15
+BC-02176,80,Luminal B,0,3,21.0
+BC-02177,35,Luminal B,0,2,15.59
+BC-02178,57,Luminal A,0,1,18.92
+BC-02179,79,Luminal A,0,3,34.68
+BC-02180,55,Triple-Negative,0,2,3.9
+BC-02181,52,Triple-Negative,0,1,35.14
+BC-02182,50,Luminal B,0,2,8.93
+BC-02183,52,Luminal B,0,3,13.78
+BC-02184,71,Luminal A,0,3,6.91
+BC-02185,28,Luminal B,0,3,40.1
+BC-02186,73,HER2-Enriched,0,3,29.81
+BC-02187,37,Luminal B,0,1,8.96
+BC-02188,51,Triple-Negative,1,2,44.74
+BC-02189,49,Luminal B,0,3,5.19
+BC-02190,62,Luminal A,0,2,17.99
+BC-02191,35,HER2-Enriched,0,2,6.49
+BC-02192,60,Luminal A,0,2,21.44
+BC-02193,79,Luminal A,0,2,15.61
+BC-02194,38,Luminal A,0,3,8.07
+BC-02195,57,Luminal A,1,2,24.67
+BC-02196,47,HER2-Enriched,1,2,9.59
+BC-02197,60,Luminal B,0,3,2.14
+BC-02198,55,HER2-Enriched,0,2,4.99
+BC-02199,47,Luminal B,0,1,17.74
+BC-02200,60,Luminal A,0,2,19.84
+BC-02201,76,Triple-Negative,0,3,11.93
+BC-02202,52,Luminal A,0,3,64.29
+BC-02203,63,Luminal A,0,3,31.47
+BC-02204,39,Luminal B,0,3,33.3
+BC-02205,43,Luminal A,0,2,10.86
+BC-02206,60,Luminal A,1,3,9.65
+BC-02207,72,Luminal B,0,3,28.31
+BC-02208,59,Luminal B,0,1,19.58
+BC-02209,51,Luminal A,0,1,30.3
+BC-02210,54,Triple-Negative,0,3,19.37
+BC-02211,39,Luminal B,0,3,41.31
+BC-02212,62,Triple-Negative,0,3,24.86
+BC-02213,65,Luminal A,0,3,21.46
+BC-02214,49,Luminal B,0,2,35.3
+BC-02215,49,Triple-Negative,0,2,70.3
+BC-02216,58,Luminal B,0,2,39.57
+BC-02217,49,HER2-Enriched,0,1,7.5
+BC-02218,54,Luminal A,0,3,20.96
+BC-02219,80,Luminal A,0,2,21.52
+BC-02220,52,Luminal B,0,2,30.9
+BC-02221,50,Luminal A,0,2,17.65
+BC-02222,47,Triple-Negative,1,2,24.29
+BC-02223,63,Luminal A,0,1,25.81
+BC-02224,52,Triple-Negative,0,2,29.7
+BC-02225,47,Triple-Negative,0,1,7.46
+BC-02226,70,Luminal A,0,1,8.52
+BC-02227,72,Luminal A,0,3,84.84
+BC-02228,47,Triple-Negative,1,1,2.88
+BC-02229,32,Triple-Negative,0,2,25.59
+BC-02230,67,Luminal A,0,2,39.55
+BC-02231,46,Luminal A,0,2,10.12
+BC-02232,64,Luminal B,0,1,55.3
+BC-02233,31,HER2-Enriched,1,3,25.02
+BC-02234,65,Luminal A,0,3,71.8
+BC-02235,40,HER2-Enriched,0,2,11.01
+BC-02236,63,Luminal A,0,2,21.15
+BC-02237,55,Luminal A,0,3,16.3
+BC-02238,43,Luminal A,0,3,14.45
+BC-02239,50,Luminal A,0,2,15.19
+BC-02240,63,Luminal A,0,1,18.71
+BC-02241,56,Luminal B,0,2,17.58
+BC-02242,62,Luminal A,0,2,42.83
+BC-02243,78,Luminal A,0,1,40.4
+BC-02244,36,Luminal A,0,2,5.51
+BC-02245,74,Triple-Negative,0,2,15.18
+BC-02246,56,Luminal A,0,2,32.05
+BC-02247,44,Luminal A,1,3,29.92
+BC-02248,39,Luminal B,0,3,20.27
+BC-02249,52,Triple-Negative,0,2,24.21
+BC-02250,66,Luminal A,0,3,17.97
+BC-02251,53,HER2-Enriched,0,1,45.5
+BC-02252,73,HER2-Enriched,0,3,42.11
+BC-02253,37,Luminal B,0,1,19.17
+BC-02254,54,Luminal A,0,1,23.31
+BC-02255,39,HER2-Enriched,0,2,19.23
+BC-02256,59,Luminal A,0,2,21.81
+BC-02257,65,Luminal B,0,3,50.36
+BC-02258,49,HER2-Enriched,0,2,17.58
+BC-02259,23,Luminal A,0,2,14.56
+BC-02260,57,Triple-Negative,0,2,23.18
+BC-02261,60,Luminal A,0,2,19.07
+BC-02262,59,Triple-Negative,0,2,12.78
+BC-02263,69,Luminal B,0,2,38.26
+BC-02264,42,Luminal A,0,3,41.28
+BC-02265,63,Luminal A,1,3,26.71
+BC-02266,69,Triple-Negative,0,3,13.95
+BC-02267,33,Luminal A,0,2,45.69
+BC-02268,58,Luminal A,0,3,8.15
+BC-02269,48,Luminal A,0,2,20.48
+BC-02270,54,Luminal B,0,2,83.04
+BC-02271,59,Luminal B,1,2,27.18
+BC-02272,49,Luminal A,0,3,18.43
+BC-02273,46,Luminal A,1,3,33.31
+BC-02274,55,Luminal A,0,3,33.28
+BC-02275,41,Luminal A,0,3,54.1
+BC-02276,41,Luminal A,0,3,12.01
+BC-02277,63,HER2-Enriched,1,3,34.15
+BC-02278,41,Luminal A,0,2,23.16
+BC-02279,62,Luminal A,0,2,25.38
+BC-02280,60,Luminal A,0,2,22.51
+BC-02281,34,Triple-Negative,0,1,22.22
+BC-02282,46,Triple-Negative,0,2,5.61
+BC-02283,69,Triple-Negative,0,2,16.9
+BC-02284,43,Luminal A,0,2,22.66
+BC-02285,49,Luminal A,0,3,31.09
+BC-02286,60,Luminal A,0,3,25.52
+BC-02287,64,Luminal A,0,1,24.78
+BC-02288,51,Luminal B,0,2,36.25
+BC-02289,47,HER2-Enriched,0,2,60.87
+BC-02290,72,Triple-Negative,0,2,20.38
+BC-02291,75,Triple-Negative,0,3,11.86
+BC-02292,66,Luminal A,1,2,45.33
+BC-02293,56,HER2-Enriched,1,2,33.89
+BC-02294,45,Luminal A,0,3,19.17
+BC-02295,45,Luminal A,0,3,46.22
+BC-02296,61,HER2-Enriched,1,1,11.52
+BC-02297,60,Luminal A,0,3,20.51
+BC-02298,71,Luminal A,0,2,18.66
+BC-02299,62,Luminal A,1,2,47.79
+BC-02300,36,HER2-Enriched,0,1,29.53
+BC-02301,67,HER2-Enriched,0,2,8.68
+BC-02302,43,Luminal A,0,2,100.79
+BC-02303,50,Triple-Negative,0,2,35.27
+BC-02304,58,Luminal A,0,2,13.79
+BC-02305,78,Luminal A,0,3,57.84
+BC-02306,92,HER2-Enriched,0,2,23.94
+BC-02307,62,HER2-Enriched,0,1,21.45
+BC-02308,52,Triple-Negative,0,3,22.48
+BC-02309,61,Luminal A,0,1,23.74
+BC-02310,65,HER2-Enriched,0,3,23.18
+BC-02311,51,Luminal B,0,2,21.64
+BC-02312,76,Triple-Negative,0,2,15.73
+BC-02313,57,Luminal A,0,2,12.94
+BC-02314,60,HER2-Enriched,0,1,26.95
+BC-02315,62,Luminal B,0,2,13.15
+BC-02316,60,Luminal A,0,1,30.27
+BC-02317,65,Luminal B,0,2,55.97
+BC-02318,47,Luminal A,0,1,23.67
+BC-02319,48,Luminal B,0,2,27.86
+BC-02320,41,Triple-Negative,0,2,47.89
+BC-02321,60,Luminal B,1,2,20.22
+BC-02322,64,Luminal B,0,1,15.0
+BC-02323,60,Luminal B,0,1,1.48
+BC-02324,75,Luminal A,0,1,26.08
+BC-02325,54,Luminal A,0,3,15.14
+BC-02326,63,Luminal B,1,2,19.13
+BC-02327,41,Luminal A,0,3,2.7
+BC-02328,50,Luminal A,0,2,19.09
+BC-02329,63,Luminal B,0,2,9.03
+BC-02330,65,Luminal A,0,2,7.49
+BC-02331,51,Luminal A,0,3,10.16
+BC-02332,54,Luminal B,0,2,9.1
+BC-02333,36,Luminal A,0,1,42.63
+BC-02334,50,Triple-Negative,0,2,49.66
+BC-02335,65,Triple-Negative,0,2,26.42
+BC-02336,61,HER2-Enriched,0,2,70.73
+BC-02337,61,Luminal A,0,2,18.31
+BC-02338,55,HER2-Enriched,0,2,11.43
+BC-02339,55,Triple-Negative,0,2,22.7
+BC-02340,47,HER2-Enriched,0,2,10.35
+BC-02341,63,Luminal A,0,3,24.53
+BC-02342,60,Luminal B,1,3,36.92
+BC-02343,60,Triple-Negative,0,2,10.18
+BC-02344,48,Luminal B,0,2,61.67
+BC-02345,29,Luminal B,0,3,86.36
+BC-02346,68,Luminal B,0,2,76.27
+BC-02347,49,Luminal B,0,2,3.85
+BC-02348,44,Luminal A,0,3,15.81
+BC-02349,63,Luminal B,0,2,28.94
+BC-02350,50,Luminal A,0,1,6.57
+BC-02351,67,Luminal A,0,3,7.23
+BC-02352,62,Luminal A,0,1,3.5
+BC-02353,63,Luminal B,0,3,24.38
+BC-02354,38,Luminal A,0,3,30.38
+BC-02355,69,HER2-Enriched,0,3,48.11
+BC-02356,58,HER2-Enriched,0,1,33.86
+BC-02357,50,Luminal A,0,2,37.88
+BC-02358,56,Luminal A,0,2,4.64
+BC-02359,33,Luminal A,0,2,28.15
+BC-02360,59,Triple-Negative,0,1,22.2
+BC-02361,42,Luminal B,0,2,13.65
+BC-02362,38,Luminal B,1,2,17.52
+BC-02363,36,Luminal A,1,1,30.51
+BC-02364,68,Luminal B,0,2,39.48
+BC-02365,47,Triple-Negative,0,3,79.27
+BC-02366,73,Triple-Negative,0,3,31.79
+BC-02367,48,Luminal B,0,3,42.36
+BC-02368,34,Luminal A,0,2,41.35
+BC-02369,41,Luminal A,0,3,50.05
+BC-02370,69,Luminal A,0,3,8.96
+BC-02371,53,Luminal A,0,2,24.9
+BC-02372,48,Luminal A,0,1,10.72
+BC-02373,56,Luminal A,0,2,11.36
+BC-02374,61,Luminal A,0,2,32.48
+BC-02375,68,Triple-Negative,1,2,32.86
+BC-02376,72,Luminal B,0,2,31.56
+BC-02377,50,Triple-Negative,0,3,14.86
+BC-02378,39,HER2-Enriched,0,2,25.45
+BC-02379,50,Luminal A,0,1,19.06
+BC-02380,58,HER2-Enriched,0,3,31.51
+BC-02381,43,Luminal A,0,2,49.05
+BC-02382,43,Luminal B,0,3,10.21
+BC-02383,59,Luminal A,0,1,23.44
+BC-02384,54,Triple-Negative,0,3,42.33
+BC-02385,55,Luminal A,1,1,5.13
+BC-02386,45,Luminal A,0,2,45.06
+BC-02387,52,Triple-Negative,1,1,2.53
+BC-02388,43,Luminal A,0,3,8.93
+BC-02389,65,HER2-Enriched,0,3,22.59
+BC-02390,67,HER2-Enriched,0,2,18.62
+BC-02391,32,Triple-Negative,0,3,16.9
+BC-02392,43,Triple-Negative,0,2,74.88
+BC-02393,37,Triple-Negative,0,2,7.89
+BC-02394,47,Luminal A,0,3,33.4
+BC-02395,53,Triple-Negative,0,2,76.8
+BC-02396,37,Luminal B,0,2,43.2
+BC-02397,43,Luminal B,0,3,30.7
+BC-02398,42,Luminal A,0,3,28.03
+BC-02399,57,HER2-Enriched,0,3,16.74
+BC-02400,55,Triple-Negative,0,3,15.75
+BC-02401,46,Triple-Negative,0,1,6.47
+BC-02402,57,Luminal A,0,3,47.09
+BC-02403,48,Luminal A,0,2,7.15
+BC-02404,51,Luminal A,0,3,22.21
+BC-02405,75,Triple-Negative,0,2,18.19
+BC-02406,71,HER2-Enriched,0,2,27.04
+BC-02407,39,Luminal B,0,2,36.69
+BC-02408,64,Luminal A,0,2,16.31
+BC-02409,64,Luminal A,1,1,8.89
+BC-02410,41,Luminal B,0,3,13.15
+BC-02411,64,Triple-Negative,0,3,10.54
+BC-02412,73,Luminal B,1,1,78.14
+BC-02413,41,Luminal A,0,3,56.17
+BC-02414,43,Luminal B,0,2,6.27
+BC-02415,67,Luminal A,0,2,18.38
+BC-02416,58,Triple-Negative,1,2,10.13
+BC-02417,61,Luminal A,0,3,13.4
+BC-02418,59,Luminal B,1,3,14.97
+BC-02419,59,Luminal A,0,2,11.18
+BC-02420,39,HER2-Enriched,0,2,44.21
+BC-02421,67,HER2-Enriched,0,1,30.01
+BC-02422,69,HER2-Enriched,0,2,28.3
+BC-02423,52,Luminal A,0,1,60.38
+BC-02424,54,Luminal A,1,2,42.11
+BC-02425,36,Luminal A,0,2,23.84
+BC-02426,61,HER2-Enriched,0,3,28.76
+BC-02427,61,Luminal A,0,2,46.97
+BC-02428,54,Luminal B,0,2,44.89
+BC-02429,68,Triple-Negative,0,2,1.95
+BC-02430,50,Triple-Negative,0,3,32.48
+BC-02431,61,Luminal A,0,3,25.38
+BC-02432,42,Luminal B,0,3,38.07
+BC-02433,54,Luminal A,0,2,3.8
+BC-02434,52,HER2-Enriched,0,3,49.82
+BC-02435,57,Triple-Negative,1,1,39.65
+BC-02436,50,Luminal A,0,2,17.55
+BC-02437,53,Luminal A,0,2,70.79
+BC-02438,64,Triple-Negative,0,2,8.78
+BC-02439,49,Triple-Negative,0,3,27.48
+BC-02440,35,Luminal A,0,3,14.77
+BC-02441,75,Luminal B,0,1,12.2
+BC-02442,71,Luminal A,0,1,22.04
+BC-02443,39,Luminal A,0,2,4.21
+BC-02444,63,Triple-Negative,0,2,39.66
+BC-02445,48,Triple-Negative,0,2,107.62
+BC-02446,58,HER2-Enriched,0,3,8.47
+BC-02447,58,Luminal A,0,3,59.73
+BC-02448,52,Triple-Negative,0,2,47.9
+BC-02449,45,Luminal A,0,3,5.54
+BC-02450,46,Luminal A,1,2,7.95
+BC-02451,44,Luminal B,0,2,27.1
+BC-02452,45,Luminal A,0,2,38.01
+BC-02453,54,HER2-Enriched,0,2,50.7
+BC-02454,46,Luminal B,0,3,22.65
+BC-02455,63,Luminal A,1,2,24.66
+BC-02456,72,Luminal A,0,2,6.31
+BC-02457,48,Luminal A,0,2,60.08
+BC-02458,57,Luminal A,0,3,48.58
+BC-02459,60,Luminal B,0,2,34.14
+BC-02460,60,Triple-Negative,1,3,23.32
+BC-02461,55,Luminal A,0,3,59.64
+BC-02462,63,Luminal A,0,2,8.33
+BC-02463,60,Luminal B,0,2,28.69
+BC-02464,40,Triple-Negative,0,3,79.58
+BC-02465,65,Luminal A,0,2,8.19
+BC-02466,65,Luminal A,0,3,92.51
+BC-02467,45,Luminal B,1,2,46.22
+BC-02468,55,Luminal A,0,1,39.03
+BC-02469,63,Luminal A,0,3,58.62
+BC-02470,52,HER2-Enriched,1,3,51.29
+BC-02471,67,Luminal B,0,3,5.49
+BC-02472,83,Luminal B,0,2,5.28
+BC-02473,45,HER2-Enriched,0,3,15.28
+BC-02474,38,HER2-Enriched,0,3,30.77
+BC-02475,58,Luminal A,0,3,53.41
+BC-02476,63,Luminal A,1,2,19.73
+BC-02477,52,Luminal A,0,2,12.3
+BC-02478,72,Luminal A,0,3,44.28
+BC-02479,38,HER2-Enriched,0,2,19.1
+BC-02480,63,Triple-Negative,0,2,32.18
+BC-02481,47,Triple-Negative,0,2,24.37
+BC-02482,75,Luminal B,0,2,12.93
+BC-02483,78,Luminal A,1,2,13.47
+BC-02484,45,Luminal A,0,1,8.21
+BC-02485,48,Triple-Negative,0,3,55.05
+BC-02486,65,Luminal B,0,2,17.25
+BC-02487,50,Luminal B,0,2,12.51
+BC-02488,54,HER2-Enriched,0,1,3.77
+BC-02489,55,HER2-Enriched,0,1,2.95
+BC-02490,31,Triple-Negative,0,2,8.75
+BC-02491,54,Luminal A,0,3,31.83
+BC-02492,46,HER2-Enriched,0,1,25.13
+BC-02493,49,Triple-Negative,0,3,18.71
+BC-02494,72,Luminal A,0,2,8.81
+BC-02495,39,Luminal B,0,2,3.35
+BC-02496,64,Luminal A,0,1,12.66
+BC-02497,51,Triple-Negative,0,1,18.94
+BC-02498,51,Luminal A,0,3,40.31
+BC-02499,64,Luminal B,0,3,5.69
+BC-02500,59,Luminal A,0,2,17.71
