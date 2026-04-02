@@ -1,6 +1,8 @@
 # Breast Cancer Treatment Response Prediction
 > End-to-end Data Science project focused on predicting chemotherapy response using clinical and treatment data.
 
+Data source: https://www.kaggle.com/datasets/waddahali/breast-cancer-treatment-journey
+
 1. Problem
 
 Treatment response in breast cancer patients is highly heterogeneous.
@@ -100,39 +102,25 @@ Model performance will be assessed using:
 
 
 8. Project Structure
-
+```
 .
 ├── datasets/
-
 │   ├── patient_profiles.csv        # Patient-level demographic & clinical data
-
 │   └── treatment_journey.csv       # Treatment cycles and outcomes
-
 │
-
 ├── notebooks/
-
 │   ├── 01_data_understanding.ipynb # Data overview, structure, initial insights
-
 │   ├── 02_eda.ipynb                # Exploratory data analysis & visualizations
-
 │   ├── 03_preprocessing.ipynb      # Data cleaning, encoding, scaling
-
 │   ├── 04_feature_engineering.ipynb# Feature creation & transformations
-
 │   └── 05_modeling.ipynb           # Model training, evaluation, comparison
-
 │
-
 ├── reports/
-
 │
-
 ├── src/
-
 │
-
 ├── README.md                      # Project documentation
+```
 
 
 ## Pipeline Overview
