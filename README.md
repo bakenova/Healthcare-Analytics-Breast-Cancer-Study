@@ -105,21 +105,21 @@ Model performance will be assessed using:
 ```
 .
 ├── datasets/
-│   ├── patient_profiles.csv        # Patient-level demographic & clinical data
-│   └── treatment_journey.csv       # Treatment cycles and outcomes
+│   ├── patient_profiles.csv       			 # Patient-level demographic & clinical data
+│   └── treatment_journey.csv      			 # Treatment cycles and outcomes
 │
 ├── notebooks/
-│   ├── 01_data_understanding.ipynb # Data overview, structure, initial insights
-│   ├── 02_eda.ipynb                # Exploratory data analysis & visualizations
-│   ├── 03_preprocessing.ipynb      # Data cleaning, encoding, scaling
+│   ├── 01_data_understanding.ipynb 		 # Data overview, structure, initial insights
+│   ├── 02_exploratory_data_analysis.ipynb   # Exploratory data analysis & visualizations
+│   ├── 03_preprocessing.ipynb      		 # Data cleaning, encoding, scaling
 │   ├── 04_feature_engineering.ipynb# Feature creation & transformations
-│   └── 05_modeling.ipynb           # Model training, evaluation, comparison
+│   └── 05_modeling.ipynb           		 # Model training, evaluation, comparison
 │
 ├── reports/
 │
 ├── src/
 │
-├── README.md                      # Project documentation
+├── README.md                     			 # Project documentation
 ```
 
 
